@@ -10,6 +10,8 @@
 
 ![NYC Subway Complaint & Ridership Analysis Dashboard](images/dashboard.png)
 
+**Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/ethan.sangiovanni4304/viz/NYC_Subway_Dashboard_Final/NYCSubwayComplaintsRidershipandNeighborhoodIncome2025)
+
 **Tableau workbook:** [NYC_Subway_Dashboard_Final.twb](tableau/NYC_Subway_Dashboard_Final.twb)
 
 ---
