@@ -98,7 +98,7 @@ Relevant fields included:
 - transit district
 - complaint severity/category
 
-**Source:** NYC Open Data — NYPD Complaint Data Historic
+**Source:** [NYC Open Data — NYPD Complaint Data Historic](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
 
 ---
 
@@ -113,7 +113,7 @@ The analysis uses `station_complex_id` as the primary MTA station identifier.
 
 Hourly ridership was aggregated by station and time period to create passenger-exposure denominators.
 
-**Source:** MTA Subway Hourly Ridership: Beginning 2025  
+**Source:** [MTA Subway Hourly Ridership: Beginning 2025](https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-Beginning-2025/5wq4-mkjj)  
 **Dataset ID:** `5wq4-mkjj`
 
 ---
@@ -122,9 +122,11 @@ Hourly ridership was aggregated by station and time period to create passenger-e
 
 Station-area economic context was measured using:
 
-**U.S. Census Bureau — 2024 American Community Survey 5-Year Estimates, Table B19013**
+**[U.S. Census Bureau — 2024 American Community Survey 5-Year Estimates, Table B19013](https://data.census.gov/table/ACSDT5Y2024.B19013)**
 
 `ACSDT5Y2024.B19013`
+
+**Tract boundaries:** [2024 New York TIGER/Line Census tract shapefile](https://www2.census.gov/geo/tiger/TIGER2024/TRACT/tl_2024_36_tract.zip)
 
 The measure represents **median household income for the Census tract containing each station complex**.
 
@@ -541,7 +543,10 @@ Uncertain station mappings were intentionally excluded rather than forced into t
 ```text
 NYC-Subway-Complaint-Analysis/
 │
+├── .gitattributes
+├── .gitignore
 ├── README.md
+├── requirements.txt
 │
 ├── sql/
 │   ├── 01_data_validation.sql
@@ -578,6 +583,27 @@ NYC-Subway-Complaint-Analysis/
 ```
 
 Large raw government datasets are not stored in the repository. The `data/` directory contains smaller analytical outputs needed to reproduce or inspect the analysis.
+
+---
+
+## Reproducing the Analysis
+
+Clone or download this repository, then run `python -m pip install -r requirements.txt` from the repository root. Download the original government datasets separately using the official links above.
+
+Large raw NYPD, MTA, and Census datasets are intentionally excluded from the repository. Create a local, git-ignored `raw_data/` folder. Save the ACS 2024 5-Year B19013 CSV for the relevant Census tracts as `raw_data/Census data.csv`, retaining the `GEO_ID`, `NAME`, and `B19013_001E` columns. Extract the TIGER/Line archive into the same folder so `raw_data/tl_2024_36_tract.shp` and its companion files remain together. The spatial-join script reads the provided `data/mta_station_locations.csv`.
+
+Follow this order:
+
+1. Import the NYPD and MTA source extracts into SQLite as `nypd_complaints` and `mta_ridership` **before running any SQL**. Use the project's documented 2025 scope and the columns and formats expected by `sql/01_data_validation.sql`, including the MTA station-hour aggregation and `sum_ridership` field.
+2. Run SQL scripts **01 through 06** in numerical order, following their validation and manual-review steps.
+3. From the repository root, run `python python/01_census_to_mta.py`. This performs the Census spatial join and writes `data/station_income.csv`.
+4. Import `data/station_income.csv` into the same SQLite database as `station_income`.
+5. Import the Census ACS income CSV into SQLite as `census_income`. **Both `station_income` and `census_income` must exist before `sql/07_census_integration.sql` runs.**
+6. Continue with SQL scripts **07 through 10** in numerical order. Export the resulting `ridership_complaint_correlation`, `ridership_complaint_rate_analysis`, `income_complaint_rate_analysis`, `tableau_station_summary`, `tableau_station_time`, and `tableau_time_summary` tables as matching CSV filenames in `data/`, with column headers.
+7. Run `python python/02_statistical_analysis.py` to read the analytical CSVs and print the statistical results.
+8. Use the analytical CSV outputs and `tableau/NYC_Subway_Dashboard_Final.twb` for final inspection and visualization, reconnecting Tableau to the local CSVs as needed. The provided cleaned CSVs and Tableau Public dashboard can also be used to inspect the existing results.
+
+This is a reproducible workflow with manual imports, review steps, and exports—not a one-command pipeline. The SQL scripts create and query SQLite tables; they do not automatically write CSV files.
 
 ---
 
