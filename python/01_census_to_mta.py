@@ -1,9 +1,14 @@
 import pandas as pd
 import geopandas as gpd
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "data"
+RAW_DATA_DIR = BASE_DIR / "raw_data"
 
 
 # Load MTA station locations.
-stations = pd.read_csv("mta_station_locations.csv")
+stations = pd.read_csv(DATA_DIR / "mta_station_locations.csv")
 
 print("MTA stations:", len(stations))
 
@@ -20,7 +25,7 @@ stations_gdf = gpd.GeoDataFrame(
 
 
 # Load the 2024 New York Census tract boundaries.
-tracts = gpd.read_file("tl_2024_36_tract.shp")
+tracts = gpd.read_file(RAW_DATA_DIR / "tl_2024_36_tract.shp")
 
 print("Census tracts:", len(tracts))
 print("Original Census tract CRS:", tracts.crs)
@@ -48,7 +53,7 @@ print("Stations missing a Census tract:", missing_tracts)
 
 
 # Load Census median household income data.
-income = pd.read_csv("Census data.csv")
+income = pd.read_csv(RAW_DATA_DIR / "Census data.csv")
 
 
 # Convert Census identifiers and income values to strings for cleaning.
@@ -162,7 +167,7 @@ print("\nFinal station-income rows:", len(station_income_clean))
 
 # Export the clean station-income dataset.
 station_income_clean.to_csv(
-    "station_income.csv",
+    DATA_DIR / "station_income.csv",
     index=False
 )
 
