@@ -1,0 +1,1697 @@
+station_complex_id,station_complex,time_period,total_complaints,total_ridership,median_household_income,complaints_per_100k_riders,ridership_threshold
+1,"Astoria-Ditmars Blvd (N,W)",Afternoon,2,972183,113370.0,0.20572258515115,Include
+1,"Astoria-Ditmars Blvd (N,W)",Evening,2,660447,113370.0,0.302825207775946,Include
+1,"Astoria-Ditmars Blvd (N,W)",Late Night,28,215652,113370.0,12.9838814386141,Include
+1,"Astoria-Ditmars Blvd (N,W)",Morning,2,1758906,113370.0,0.11370704290053,Include
+2,"Astoria Blvd (N,W)",Afternoon,1,691441,93309.0,0.144625499500319,Include
+2,"Astoria Blvd (N,W)",Evening,2,447548,93309.0,0.446879440864444,Include
+2,"Astoria Blvd (N,W)",Late Night,24,151414,93309.0,15.850581848442,Include
+2,"Astoria Blvd (N,W)",Morning,4,1342713,93309.0,0.297904317601751,Include
+3,"30 Av (N,W)",Afternoon,5,942860,137746.0,0.53030142332902,Include
+3,"30 Av (N,W)",Evening,3,623062,137746.0,0.481493013536374,Include
+3,"30 Av (N,W)",Late Night,8,173314,137746.0,4.61589946570964,Include
+3,"30 Av (N,W)",Morning,3,1638545,137746.0,0.183089265171234,Include
+4,"Broadway (N,W)",Afternoon,2,821976,76813.0,0.243316106552989,Include
+4,"Broadway (N,W)",Evening,1,560111,76813.0,0.17853604017775,Include
+4,"Broadway (N,W)",Late Night,1,156855,76813.0,0.637531478116732,Include
+4,"Broadway (N,W)",Morning,2,1483985,76813.0,0.134772251741089,Include
+5,"36 Av (N,W)",Afternoon,3,517319,113816.0,0.579912974392976,Include
+5,"36 Av (N,W)",Evening,0,351964,113816.0,0.0,Include
+5,"36 Av (N,W)",Late Night,4,90715,113816.0,4.40941409910158,Low Ridership
+5,"36 Av (N,W)",Morning,1,669990,113816.0,0.149255959044165,Include
+6,"39 Av-Dutch Kills (N,W)",Afternoon,1,308021,121908.0,0.324653189230604,Include
+6,"39 Av-Dutch Kills (N,W)",Evening,2,226319,121908.0,0.88370839390418,Include
+6,"39 Av-Dutch Kills (N,W)",Late Night,1,42374,121908.0,2.35993769764478,Low Ridership
+6,"39 Av-Dutch Kills (N,W)",Morning,2,395419,121908.0,0.505792589632769,Include
+8,"5 Av/59 St (N,R,W)",Afternoon,3,1580711,,0.189788013115617,Include
+8,"5 Av/59 St (N,R,W)",Evening,4,1651672,,0.242178834538577,Include
+8,"5 Av/59 St (N,R,W)",Late Night,3,242722,,1.23598190522491,Include
+8,"5 Av/59 St (N,R,W)",Morning,4,382900,,1.04465917994254,Include
+9,"57 St-7 Av (N,Q,R,W)",Afternoon,11,2912271,167929.0,0.377712101655375,Include
+9,"57 St-7 Av (N,Q,R,W)",Evening,5,3459920,167929.0,0.144512011838424,Include
+9,"57 St-7 Av (N,Q,R,W)",Late Night,15,916342,167929.0,1.63694341195754,Include
+9,"57 St-7 Av (N,Q,R,W)",Morning,7,1478128,167929.0,0.473571977528333,Include
+10,"49 St (N,R,W)",Afternoon,31,2109753,171250.0,1.46936631918523,Include
+10,"49 St (N,R,W)",Evening,18,3032675,171250.0,0.593535410157699,Include
+10,"49 St (N,R,W)",Late Night,22,996460,171250.0,2.20781566746282,Include
+10,"49 St (N,R,W)",Morning,53,1240770,171250.0,4.27154105918099,Include
+13,"28 St (R,W)",Afternoon,2,1014278,193644.0,0.197184598305396,Include
+13,"28 St (R,W)",Evening,3,1288432,193644.0,0.23284115886597,Include
+13,"28 St (R,W)",Late Night,2,368338,193644.0,0.542979545960504,Include
+13,"28 St (R,W)",Morning,2,589259,193644.0,0.339409325950049,Include
+14,"23 St (R,W)",Afternoon,3,1790164,183068.0,0.167582411443868,Include
+14,"23 St (R,W)",Evening,5,1948492,183068.0,0.256608700471955,Include
+14,"23 St (R,W)",Late Night,3,328033,183068.0,0.914542134480372,Include
+14,"23 St (R,W)",Morning,0,759458,183068.0,0.0,Include
+16,"8 St-NYU (R,W)",Afternoon,5,1398649,201116.0,0.357487832901607,Include
+16,"8 St-NYU (R,W)",Evening,1,1681799,201116.0,0.0594601376264346,Include
+16,"8 St-NYU (R,W)",Late Night,4,430389,201116.0,0.929391782782553,Include
+16,"8 St-NYU (R,W)",Morning,0,802037,201116.0,0.0,Include
+17,"Prince St (R,W)",Afternoon,3,1470454,122730.0,0.204018622819891,Include
+17,"Prince St (R,W)",Evening,2,1595685,122730.0,0.125338020975318,Include
+17,"Prince St (R,W)",Late Night,6,218450,122730.0,2.74662394140536,Include
+17,"Prince St (R,W)",Morning,2,335991,122730.0,0.595254039542726,Include
+20,"City Hall (R,W)",Afternoon,2,491570,189250.0,0.406859653762435,Include
+20,"City Hall (R,W)",Evening,4,443501,189250.0,0.901914539087849,Include
+20,"City Hall (R,W)",Late Night,18,48271,189250.0,37.2894698680367,Low Ridership
+20,"City Hall (R,W)",Morning,1,204979,189250.0,0.487854853424009,Include
+22,"Rector St (R,W)",Afternoon,7,473304,171923.0,1.47896489359904,Include
+22,"Rector St (R,W)",Evening,0,407231,171923.0,0.0,Include
+22,"Rector St (R,W)",Late Night,2,44925,171923.0,4.45186421814135,Low Ridership
+22,"Rector St (R,W)",Morning,1,338102,171923.0,0.295768732512674,Include
+26,"DeKalb Av (B,Q,R)",Afternoon,11,1906067,138179.0,0.577104582367776,Include
+26,"DeKalb Av (B,Q,R)",Evening,23,1532411,138179.0,1.50090282567797,Include
+26,"DeKalb Av (B,Q,R)",Late Night,24,359874,138179.0,6.6690008169526,Include
+26,"DeKalb Av (B,Q,R)",Morning,21,1690384,138179.0,1.24232127137976,Include
+28,Union St (R),Afternoon,5,600158,201298.0,0.833113946660713,Include
+28,Union St (R),Evening,12,559155,201298.0,2.14609544759503,Include
+28,Union St (R),Late Night,5,135659,201298.0,3.68571196898105,Include
+28,Union St (R),Morning,1,710234,201298.0,0.140798666355032,Include
+30,Prospect Av (R),Afternoon,1,424677,119594.0,0.23547307718572,Include
+30,Prospect Av (R),Evening,1,325048,119594.0,0.307646870616032,Include
+30,Prospect Av (R),Late Night,4,65916,119594.0,6.06832938891923,Low Ridership
+30,Prospect Av (R),Morning,0,616305,119594.0,0.0,Include
+31,25 St (R),Afternoon,7,288964,136705.0,2.42244708683435,Include
+31,25 St (R),Evening,7,214091,136705.0,3.26963767743623,Include
+31,25 St (R),Late Night,8,55822,136705.0,14.3312672423059,Low Ridership
+31,25 St (R),Morning,2,350997,136705.0,0.569805439932535,Include
+32,"36 St (D,N,R)",Afternoon,24,1352889,116100.0,1.77398145745882,Include
+32,"36 St (D,N,R)",Evening,53,1187473,116100.0,4.46325937516053,Include
+32,"36 St (D,N,R)",Late Night,154,243690,116100.0,63.1950428823505,Include
+32,"36 St (D,N,R)",Morning,32,1191654,116100.0,2.68534322882313,Include
+33,45 St (R),Afternoon,4,546918,71250.0,0.731371064766565,Include
+33,45 St (R),Evening,5,392802,71250.0,1.2729059424341,Include
+33,45 St (R),Late Night,4,139356,71250.0,2.87034645081661,Include
+33,45 St (R),Morning,10,931387,71250.0,1.07366755172662,Include
+34,53 St (R),Afternoon,20,614707,73681.0,3.25358260114168,Include
+34,53 St (R),Evening,8,400752,73681.0,1.99624705553559,Include
+34,53 St (R),Late Night,10,163241,73681.0,6.12591199514828,Include
+34,53 St (R),Morning,26,1018426,73681.0,2.55295917425517,Include
+35,"59 St (N,R)",Afternoon,45,913745,73454.0,4.92478755013707,Include
+35,"59 St (N,R)",Evening,53,631309,73454.0,8.39525493854832,Include
+35,"59 St (N,R)",Late Night,42,197940,73454.0,21.2185510760837,Include
+35,"59 St (N,R)",Morning,20,1555263,73454.0,1.28595613732211,Include
+36,Bay Ridge Av (R),Afternoon,2,542421,80938.0,0.368717287863117,Include
+36,Bay Ridge Av (R),Evening,2,302351,80938.0,0.661482846096094,Include
+36,Bay Ridge Av (R),Late Night,3,113559,80938.0,2.64179853644361,Include
+36,Bay Ridge Av (R),Morning,5,913014,80938.0,0.547636728461995,Include
+37,77 St (R),Afternoon,2,339321,88182.0,0.589412385322453,Include
+37,77 St (R),Evening,4,199046,88182.0,2.00958572390302,Include
+37,77 St (R),Late Night,3,74941,88182.0,4.00314914399327,Low Ridership
+37,77 St (R),Morning,4,687536,88182.0,0.581787717297712,Include
+38,86 St (R),Afternoon,10,733606,88542.0,1.36312952729394,Include
+38,86 St (R),Evening,4,514493,88542.0,0.777464416425491,Include
+38,86 St (R),Late Night,9,178953,88542.0,5.02925349114013,Include
+38,86 St (R),Morning,2,1366016,88542.0,0.146411169415292,Include
+39,Bay Ridge-95 St (R),Afternoon,5,335122,85342.0,1.49199396040845,Include
+39,Bay Ridge-95 St (R),Evening,25,201896,85342.0,12.3826128303681,Include
+39,Bay Ridge-95 St (R),Late Night,12,85464,85342.0,14.04099971918,Low Ridership
+39,Bay Ridge-95 St (R),Morning,5,662766,85342.0,0.754414076763141,Include
+41,"7 Av (B,Q)",Afternoon,12,655339,172234.0,1.83111336270236,Include
+41,"7 Av (B,Q)",Evening,5,598043,172234.0,0.836060283290666,Include
+41,"7 Av (B,Q)",Late Night,1,99951,172234.0,1.00049024021771,Low Ridership
+41,"7 Av (B,Q)",Morning,8,972317,172234.0,0.822776933860048,Include
+42,"Prospect Park (B,Q,S)",Afternoon,8,750105,82554.0,1.06651735423707,Include
+42,"Prospect Park (B,Q,S)",Evening,8,551312,82554.0,1.45108395971791,Include
+42,"Prospect Park (B,Q,S)",Late Night,17,150618,82554.0,11.2868315871941,Include
+42,"Prospect Park (B,Q,S)",Morning,10,1075498,82554.0,0.92980182203965,Include
+43,Parkside Av (Q),Afternoon,2,443095,100438.0,0.451370473600469,Include
+43,Parkside Av (Q),Evening,8,321263,100438.0,2.49017160395066,Include
+43,Parkside Av (Q),Late Night,2,108521,100438.0,1.84296127016891,Include
+43,Parkside Av (Q),Morning,3,796209,100438.0,0.376785492251406,Include
+44,"Church Av (B,Q)",Afternoon,2,776399,69276.0,0.257599507469742,Include
+44,"Church Av (B,Q)",Evening,7,517936,69276.0,1.35151833431158,Include
+44,"Church Av (B,Q)",Late Night,3,164525,69276.0,1.82343108950008,Include
+44,"Church Av (B,Q)",Morning,3,1452424,69276.0,0.206551255005425,Include
+45,Beverley Rd (Q),Afternoon,2,242361,215602.0,0.825215278035658,Include
+45,Beverley Rd (Q),Evening,3,162298,215602.0,1.84845161369826,Include
+45,Beverley Rd (Q),Late Night,1,81438,215602.0,1.22792799430241,Low Ridership
+45,Beverley Rd (Q),Morning,3,484063,215602.0,0.619754040279881,Include
+46,Cortelyou Rd (Q),Afternoon,2,378338,126102.0,0.528627840713859,Include
+46,Cortelyou Rd (Q),Evening,2,241479,126102.0,0.828229369841684,Include
+46,Cortelyou Rd (Q),Late Night,0,92570,126102.0,0.0,Low Ridership
+46,Cortelyou Rd (Q),Morning,2,762079,126102.0,0.262439983256329,Include
+47,"Newkirk Plaza (B,Q)",Afternoon,0,614150,126102.0,0.0,Include
+47,"Newkirk Plaza (B,Q)",Evening,0,347246,126102.0,0.0,Include
+47,"Newkirk Plaza (B,Q)",Late Night,0,114664,126102.0,0.0,Include
+47,"Newkirk Plaza (B,Q)",Morning,0,1189253,126102.0,0.0,Include
+48,Avenue H (Q),Afternoon,3,237246,72500.0,1.26451025517817,Include
+48,Avenue H (Q),Evening,2,134092,72500.0,1.49151328938341,Include
+48,Avenue H (Q),Late Night,2,33989,72500.0,5.884256671276,Low Ridership
+48,Avenue H (Q),Morning,1,342659,72500.0,0.291835323163845,Include
+49,Avenue J (Q),Afternoon,3,380378,72500.0,0.788689146059972,Include
+49,Avenue J (Q),Evening,4,249393,72500.0,1.60389425525175,Include
+49,Avenue J (Q),Late Night,3,64025,72500.0,4.68566966028895,Low Ridership
+49,Avenue J (Q),Morning,6,565328,72500.0,1.06133076727139,Include
+50,Avenue M (Q),Afternoon,4,442422,73125.0,0.904114171537582,Include
+50,Avenue M (Q),Evening,1,247804,73125.0,0.40354473696954,Include
+50,Avenue M (Q),Late Night,2,51435,73125.0,3.88840283853407,Low Ridership
+50,Avenue M (Q),Morning,1,587781,73125.0,0.170131392474408,Include
+51,"Kings Hwy (B,Q)",Afternoon,30,1269436,69861.0,2.36325423258833,Include
+51,"Kings Hwy (B,Q)",Evening,21,814751,69861.0,2.57747459039633,Include
+51,"Kings Hwy (B,Q)",Late Night,18,217039,69861.0,8.29344034943029,Include
+51,"Kings Hwy (B,Q)",Morning,17,2200893,69861.0,0.772413742967059,Include
+52,Avenue U (Q),Afternoon,10,410147,38945.0,2.43815022418791,Include
+52,Avenue U (Q),Evening,8,261732,38945.0,3.05656167377317,Include
+52,Avenue U (Q),Late Night,12,99875,38945.0,12.0150187734668,Low Ridership
+52,Avenue U (Q),Morning,6,816562,38945.0,0.734788050386866,Include
+53,Neck Rd (Q),Afternoon,1,221375,70167.0,0.451722190852626,Include
+53,Neck Rd (Q),Evening,2,143917,70167.0,1.38968989070089,Include
+53,Neck Rd (Q),Late Night,1,61961,70167.0,1.61391843256242,Low Ridership
+53,Neck Rd (Q),Morning,1,596879,70167.0,0.167538144246991,Include
+54,"Sheepshead Bay (B,Q)",Afternoon,5,741306,76080.0,0.674485300267366,Include
+54,"Sheepshead Bay (B,Q)",Evening,4,500416,76080.0,0.799334953318839,Include
+54,"Sheepshead Bay (B,Q)",Late Night,11,171235,76080.0,6.42392034338774,Include
+54,"Sheepshead Bay (B,Q)",Morning,3,1410337,76080.0,0.212715117025222,Include
+55,"Brighton Beach (B,Q)",Afternoon,4,810270,30176.0,0.49366260629173,Include
+55,"Brighton Beach (B,Q)",Evening,13,553124,30176.0,2.35028673498167,Include
+55,"Brighton Beach (B,Q)",Late Night,9,133910,30176.0,6.72093196923307,Include
+55,"Brighton Beach (B,Q)",Morning,14,1041346,30176.0,1.34441386436401,Include
+56,Ocean Pkwy (Q),Afternoon,2,220503,52023.0,0.907017138088824,Include
+56,Ocean Pkwy (Q),Evening,1,158776,52023.0,0.629818108530256,Include
+56,Ocean Pkwy (Q),Late Night,6,40973,52023.0,14.6437898128036,Low Ridership
+56,Ocean Pkwy (Q),Morning,1,282403,52023.0,0.354103886998368,Include
+57,"W 8 St-NY Aquarium (F,Q)",Afternoon,5,260282,63382.0,1.92099338409879,Include
+57,"W 8 St-NY Aquarium (F,Q)",Evening,5,185682,63382.0,2.69277582102735,Include
+57,"W 8 St-NY Aquarium (F,Q)",Late Night,4,41505,63382.0,9.63739308517046,Low Ridership
+57,"W 8 St-NY Aquarium (F,Q)",Morning,4,203907,63382.0,1.9616786083852,Include
+58,"Coney Island-Stillwell Av (D,F,N,Q)",Afternoon,224,1141691,56891.0,19.6200197776806,Include
+58,"Coney Island-Stillwell Av (D,F,N,Q)",Evening,247,902204,56891.0,27.3774002332067,Include
+58,"Coney Island-Stillwell Av (D,F,N,Q)",Late Night,486,390503,56891.0,124.454869744919,Include
+58,"Coney Island-Stillwell Av (D,F,N,Q)",Morning,480,1310379,56891.0,36.6306236592619,Include
+59,9 Av (D),Afternoon,5,352983,86932.0,1.4164988115575,Include
+59,9 Av (D),Evening,3,215701,86932.0,1.39081413623488,Include
+59,9 Av (D),Late Night,6,94850,86932.0,6.32577754348972,Low Ridership
+59,9 Av (D),Morning,1,739239,86932.0,0.135274248247184,Include
+60,Fort Hamilton Pkwy (D),Afternoon,3,316703,60348.0,0.947259735461931,Include
+60,Fort Hamilton Pkwy (D),Evening,2,217449,60348.0,0.919755896784993,Include
+60,Fort Hamilton Pkwy (D),Late Night,7,54590,60348.0,12.8228613299139,Low Ridership
+60,Fort Hamilton Pkwy (D),Morning,2,427471,60348.0,0.467867995723687,Include
+61,50 St (D),Afternoon,0,263613,59395.0,0.0,Include
+61,50 St (D),Evening,0,218317,59395.0,0.0,Include
+61,50 St (D),Late Night,2,43766,59395.0,4.56975734588493,Low Ridership
+61,50 St (D),Morning,0,253569,59395.0,0.0,Include
+62,55 St (D),Afternoon,0,148096,37833.0,0.0,Include
+62,55 St (D),Evening,0,120601,37833.0,0.0,Include
+62,55 St (D),Late Night,1,23632,37833.0,4.23155044008125,Low Ridership
+62,55 St (D),Morning,0,132527,37833.0,0.0,Include
+64,71 St (D),Afternoon,2,251271,48824.0,0.795953373051407,Include
+64,71 St (D),Evening,2,139269,48824.0,1.43606976426915,Include
+64,71 St (D),Late Night,7,91449,48824.0,7.65453968878829,Low Ridership
+64,71 St (D),Morning,1,682012,48824.0,0.146624986070626,Include
+65,79 St (D),Afternoon,4,356008,78750.0,1.12357025684816,Include
+65,79 St (D),Evening,1,164016,78750.0,0.609696614964394,Include
+65,79 St (D),Late Night,8,111958,78750.0,7.14553671912682,Include
+65,79 St (D),Morning,3,868893,78750.0,0.345266908583681,Include
+66,18 Av (D),Afternoon,1,338312,68792.0,0.295585140343825,Include
+66,18 Av (D),Evening,2,199929,68792.0,1.00035512606975,Include
+66,18 Av (D),Late Night,4,111648,68792.0,3.58268844941244,Include
+66,18 Av (D),Morning,4,791864,68792.0,0.505137245789681,Include
+67,20 Av (D),Afternoon,5,290521,77042.0,1.72104598290657,Include
+67,20 Av (D),Evening,0,173001,77042.0,0.0,Include
+67,20 Av (D),Late Night,4,92418,77042.0,4.32816118072237,Low Ridership
+67,20 Av (D),Morning,3,644531,77042.0,0.46545472599456,Include
+68,Bay Pkwy (D),Afternoon,4,452742,66349.0,0.883505396009206,Include
+68,Bay Pkwy (D),Evening,2,263758,66349.0,0.758270839178338,Include
+68,Bay Pkwy (D),Late Night,12,122303,66349.0,9.81169717831942,Include
+68,Bay Pkwy (D),Morning,1,901759,66349.0,0.110894374217502,Include
+69,25 Av (D),Afternoon,6,228583,61059.0,2.62486711610225,Include
+69,25 Av (D),Evening,3,121865,61059.0,2.4617404504985,Include
+69,25 Av (D),Late Night,2,68062,61059.0,2.93849725250507,Low Ridership
+69,25 Av (D),Morning,0,546864,61059.0,0.0,Include
+70,Bay 50 St (D),Afternoon,13,206997,65985.0,6.28028425532737,Include
+70,Bay 50 St (D),Evening,2,77297,65985.0,2.58742253903774,Low Ridership
+70,Bay 50 St (D),Late Night,5,46952,65985.0,10.6491736241268,Low Ridership
+70,Bay 50 St (D),Morning,5,327005,65985.0,1.52902860812526,Include
+71,8 Av (N),Afternoon,1,1012835,62273.0,0.0987327649617164,Include
+71,8 Av (N),Evening,2,678441,62273.0,0.294793504519921,Include
+71,8 Av (N),Late Night,9,104563,62273.0,8.60725113089716,Include
+71,8 Av (N),Morning,5,1154599,62273.0,0.433050782133018,Include
+72,Fort Hamilton Pkwy (N),Afternoon,0,411301,78214.0,0.0,Include
+72,Fort Hamilton Pkwy (N),Evening,3,238543,78214.0,1.25763489182244,Include
+72,Fort Hamilton Pkwy (N),Late Night,2,91540,78214.0,2.18483722962639,Low Ridership
+72,Fort Hamilton Pkwy (N),Morning,2,897919,78214.0,0.222737240218773,Include
+74,18 Av (N),Afternoon,0,352190,79340.0,0.0,Include
+74,18 Av (N),Evening,0,222709,79340.0,0.0,Include
+74,18 Av (N),Late Night,4,74333,79340.0,5.3811900501796,Low Ridership
+74,18 Av (N),Morning,2,603223,79340.0,0.331552344655293,Include
+75,20 Av (N),Afternoon,3,328301,89021.0,0.913795571746659,Include
+75,20 Av (N),Evening,0,116658,89021.0,0.0,Include
+75,20 Av (N),Late Night,3,55908,89021.0,5.36595836016313,Low Ridership
+75,20 Av (N),Morning,1,546385,89021.0,0.183021129789434,Include
+76,Bay Pkwy (N),Afternoon,0,428889,79667.0,0.0,Include
+76,Bay Pkwy (N),Evening,0,213483,79667.0,0.0,Include
+76,Bay Pkwy (N),Late Night,0,88846,79667.0,0.0,Low Ridership
+76,Bay Pkwy (N),Morning,0,910851,79667.0,0.0,Include
+77,Kings Hwy (N),Afternoon,0,313304,71840.0,0.0,Include
+77,Kings Hwy (N),Evening,0,178996,71840.0,0.0,Include
+77,Kings Hwy (N),Late Night,0,85374,71840.0,0.0,Low Ridership
+77,Kings Hwy (N),Morning,0,805674,71840.0,0.0,Include
+78,Avenue U (N),Afternoon,0,222508,58941.0,0.0,Include
+78,Avenue U (N),Evening,0,143427,58941.0,0.0,Include
+78,Avenue U (N),Late Night,0,57724,58941.0,0.0,Low Ridership
+78,Avenue U (N),Morning,0,521996,58941.0,0.0,Include
+79,86 St (N),Afternoon,6,170236,91857.0,3.52451890316972,Include
+79,86 St (N),Evening,8,84872,91857.0,9.42595909133754,Low Ridership
+79,86 St (N),Late Night,7,33731,91857.0,20.7524235866117,Low Ridership
+79,86 St (N),Morning,1,291083,91857.0,0.343544624729029,Include
+80,"121 St (J,Z)",Afternoon,3,145613,80101.0,2.0602556090459,Include
+80,"121 St (J,Z)",Evening,0,100687,80101.0,0.0,Include
+80,"121 St (J,Z)",Late Night,1,54819,80101.0,1.824185045331,Low Ridership
+80,"121 St (J,Z)",Morning,1,238261,80101.0,0.419707799430037,Include
+81,111 St (J),Afternoon,0,147342,71435.0,0.0,Include
+81,111 St (J),Evening,1,81610,71435.0,1.22534003185884,Low Ridership
+81,111 St (J),Late Night,19,52903,71435.0,35.9147874411659,Low Ridership
+81,111 St (J),Morning,2,251172,71435.0,0.796267099835969,Include
+82,"104 St (J,Z)",Afternoon,0,141482,135267.0,0.0,Include
+82,"104 St (J,Z)",Evening,0,74567,135267.0,0.0,Low Ridership
+82,"104 St (J,Z)",Late Night,0,69656,135267.0,0.0,Low Ridership
+82,"104 St (J,Z)",Morning,0,322576,135267.0,0.0,Include
+83,"Woodhaven Blvd (J,Z)",Afternoon,0,297092,71667.0,0.0,Include
+83,"Woodhaven Blvd (J,Z)",Evening,2,191097,71667.0,1.04658890511102,Include
+83,"Woodhaven Blvd (J,Z)",Late Night,3,117015,71667.0,2.56377387514421,Include
+83,"Woodhaven Blvd (J,Z)",Morning,6,512641,71667.0,1.17040970191616,Include
+84,85 St-Forest Pkwy (J),Afternoon,2,132023,86524.0,1.51488755747105,Include
+84,85 St-Forest Pkwy (J),Evening,1,68547,86524.0,1.4588530497323,Low Ridership
+84,85 St-Forest Pkwy (J),Late Night,1,59463,86524.0,1.68171804315289,Low Ridership
+84,85 St-Forest Pkwy (J),Morning,1,315490,86524.0,0.316967257282323,Include
+85,"75 St-Elderts Ln (J,Z)",Afternoon,3,240091,74107.0,1.24952622130775,Include
+85,"75 St-Elderts Ln (J,Z)",Evening,1,94715,74107.0,1.05579897587499,Low Ridership
+85,"75 St-Elderts Ln (J,Z)",Late Night,2,86294,74107.0,2.31765823811621,Low Ridership
+85,"75 St-Elderts Ln (J,Z)",Morning,1,436166,74107.0,0.229270507100508,Include
+86,Cypress Hills (J),Afternoon,2,43972,82976.0,4.54834894933139,Low Ridership
+86,Cypress Hills (J),Evening,1,22680,82976.0,4.40917107583774,Low Ridership
+86,Cypress Hills (J),Late Night,0,17645,82976.0,0.0,Low Ridership
+86,Cypress Hills (J),Morning,0,86695,82976.0,0.0,Low Ridership
+87,"Crescent St (J,Z)",Afternoon,5,250011,59034.0,1.99991200387183,Include
+87,"Crescent St (J,Z)",Evening,10,149399,59034.0,6.69348523082484,Include
+87,"Crescent St (J,Z)",Late Night,11,105941,59034.0,10.3831377842384,Include
+87,"Crescent St (J,Z)",Morning,2,468221,59034.0,0.427148718233484,Include
+88,"Norwood Av (J,Z)",Afternoon,1,155950,46583.0,0.641231163834562,Include
+88,"Norwood Av (J,Z)",Evening,1,79000,46583.0,1.26582278481013,Low Ridership
+88,"Norwood Av (J,Z)",Late Night,4,58242,46583.0,6.86789602005426,Low Ridership
+88,"Norwood Av (J,Z)",Morning,2,288653,46583.0,0.692873450128701,Include
+89,Cleveland St (J),Afternoon,4,134320,86563.0,2.97796307325789,Include
+89,Cleveland St (J),Evening,3,75468,86563.0,3.97519478454444,Low Ridership
+89,Cleveland St (J),Late Night,11,43607,86563.0,25.2253078634164,Low Ridership
+89,Cleveland St (J),Morning,2,260961,86563.0,0.766398044152191,Include
+90,"Van Siclen Av (J,Z)",Afternoon,4,174698,60289.0,2.28966559433995,Include
+90,"Van Siclen Av (J,Z)",Evening,6,92237,60289.0,6.50498173184297,Low Ridership
+90,"Van Siclen Av (J,Z)",Late Night,4,58801,60289.0,6.80260539786738,Low Ridership
+90,"Van Siclen Av (J,Z)",Morning,2,359779,60289.0,0.555896814433305,Include
+91,"Alabama Av (J,Z)",Afternoon,22,148428,60289.0,14.8220012396583,Include
+91,"Alabama Av (J,Z)",Evening,23,117260,60289.0,19.6145318096538,Include
+91,"Alabama Av (J,Z)",Late Night,11,41933,60289.0,26.2323229914387,Low Ridership
+91,"Alabama Av (J,Z)",Morning,12,155114,60289.0,7.73624560001031,Include
+93,"Chauncey St (J,Z)",Afternoon,2,197679,48583.0,1.01174125729086,Include
+93,"Chauncey St (J,Z)",Evening,5,131539,48583.0,3.80115403036362,Include
+93,"Chauncey St (J,Z)",Late Night,1,54872,48583.0,1.82242309374544,Low Ridership
+93,"Chauncey St (J,Z)",Morning,1,308543,48583.0,0.324103933649443,Include
+94,Halsey St (J),Afternoon,0,395357,74291.0,0.0,Include
+94,Halsey St (J),Evening,1,243010,74291.0,0.411505699353936,Include
+94,Halsey St (J),Late Night,3,95927,74291.0,3.12737811043815,Low Ridership
+94,Halsey St (J),Morning,7,728145,74291.0,0.961346984460513,Include
+95,"Gates Av (J,Z)",Afternoon,3,485705,74291.0,0.617658867007752,Include
+95,"Gates Av (J,Z)",Evening,3,296290,74291.0,1.01252151608222,Include
+95,"Gates Av (J,Z)",Late Night,3,98354,74291.0,3.05020639729955,Low Ridership
+95,"Gates Av (J,Z)",Morning,1,752343,74291.0,0.132918097197688,Include
+96,Kosciuszko St (J),Afternoon,29,409228,50152.0,7.08651411926848,Include
+96,Kosciuszko St (J),Evening,13,253776,50152.0,5.12262782926676,Include
+96,Kosciuszko St (J),Late Night,9,101741,50152.0,8.84599129161302,Include
+96,Kosciuszko St (J),Morning,8,659068,50152.0,1.21383529468886,Include
+97,"Myrtle Av (M,J,Z)",Afternoon,27,809693,106462.0,3.33459718683501,Include
+97,"Myrtle Av (M,J,Z)",Evening,62,604458,106462.0,10.2571229101112,Include
+97,"Myrtle Av (M,J,Z)",Late Night,84,253012,106462.0,33.2000063238107,Include
+97,"Myrtle Av (M,J,Z)",Morning,9,1261647,106462.0,0.71335325966772,Include
+98,"Flushing Av (M,J)",Afternoon,13,753901,57969.0,1.72436433961488,Include
+98,"Flushing Av (M,J)",Evening,15,545870,57969.0,2.74790701082675,Include
+98,"Flushing Av (M,J)",Late Night,10,121689,57969.0,8.2176696332454,Include
+98,"Flushing Av (M,J)",Morning,6,596576,57969.0,1.00573941962131,Include
+99,"Lorimer St (M,J)",Afternoon,3,327517,46137.0,0.915982987142652,Include
+99,"Lorimer St (M,J)",Evening,7,275716,46137.0,2.53884431806642,Include
+99,"Lorimer St (M,J)",Late Night,4,73906,46137.0,5.41228046437366,Low Ridership
+99,"Lorimer St (M,J)",Morning,1,372205,46137.0,0.268669147378461,Include
+100,"Hewes St (M,J)",Afternoon,6,208947,39549.0,2.87154158710104,Include
+100,"Hewes St (M,J)",Evening,0,177781,39549.0,0.0,Include
+100,"Hewes St (M,J)",Late Night,3,55954,39549.0,5.36154698502341,Low Ridership
+100,"Hewes St (M,J)",Morning,0,239090,39549.0,0.0,Include
+101,"Marcy Av (M,J,Z)",Afternoon,11,948888,39549.0,1.15925167143014,Include
+101,"Marcy Av (M,J,Z)",Evening,16,876315,39549.0,1.82582747071544,Include
+101,"Marcy Av (M,J,Z)",Late Night,24,225395,39549.0,10.6479735575323,Include
+101,"Marcy Av (M,J,Z)",Morning,6,957292,39549.0,0.626768008089486,Include
+103,"Bowery (J,Z)",Afternoon,4,315458,76726.0,1.26799764152439,Include
+103,"Bowery (J,Z)",Evening,2,377599,76726.0,0.529662419656832,Include
+103,"Bowery (J,Z)",Late Night,0,175317,76726.0,0.0,Include
+103,"Bowery (J,Z)",Morning,5,145984,76726.0,3.42503288031565,Include
+107,"Broad St (J,Z)",Afternoon,1,561783,190388.0,0.17800467440275,Include
+107,"Broad St (J,Z)",Evening,4,592920,190388.0,0.67462726843419,Include
+107,"Broad St (J,Z)",Late Night,10,100198,190388.0,9.98023912652947,Include
+107,"Broad St (J,Z)",Morning,6,181878,190388.0,3.29891465707782,Include
+108,Middle Village-Metropolitan Av (M),Afternoon,0,266144,93669.0,0.0,Include
+108,Middle Village-Metropolitan Av (M),Evening,0,146489,93669.0,0.0,Include
+108,Middle Village-Metropolitan Av (M),Late Night,0,73454,93669.0,0.0,Low Ridership
+108,Middle Village-Metropolitan Av (M),Morning,0,424795,93669.0,0.0,Include
+109,Fresh Pond Rd (M),Afternoon,0,317305,93669.0,0.0,Include
+109,Fresh Pond Rd (M),Evening,1,176369,93669.0,0.566993065674807,Include
+109,Fresh Pond Rd (M),Late Night,4,98567,93669.0,4.05815333732385,Low Ridership
+109,Fresh Pond Rd (M),Morning,0,762930,93669.0,0.0,Include
+110,Forest Av (M),Afternoon,0,250143,60224.0,0.0,Include
+110,Forest Av (M),Evening,1,144881,60224.0,0.690221630165446,Include
+110,Forest Av (M),Late Night,1,78919,60224.0,1.26712198583358,Low Ridership
+110,Forest Av (M),Morning,0,572721,60224.0,0.0,Include
+111,Seneca Av (M),Afternoon,1,160100,104821.0,0.624609618988132,Include
+111,Seneca Av (M),Evening,0,105739,104821.0,0.0,Include
+111,Seneca Av (M),Late Night,2,53639,104821.0,3.72863028766383,Low Ridership
+111,Seneca Av (M),Morning,0,357757,104821.0,0.0,Include
+113,Knickerbocker Av (M),Afternoon,0,300843,90745.0,0.0,Include
+113,Knickerbocker Av (M),Evening,3,194294,90745.0,1.54405179779098,Include
+113,Knickerbocker Av (M),Late Night,3,54444,90745.0,5.51024906325766,Low Ridership
+113,Knickerbocker Av (M),Morning,1,455666,90745.0,0.219458989698595,Include
+114,Central Av (M),Afternoon,1,242769,123750.0,0.411914206509068,Include
+114,Central Av (M),Evening,1,161218,123750.0,0.620278132714709,Include
+114,Central Av (M),Late Night,2,64466,123750.0,3.10241057301523,Low Ridership
+114,Central Av (M),Morning,0,450581,123750.0,0.0,Include
+118,3 Av (L),Afternoon,5,556064,161973.0,0.89917707314266,Include
+118,3 Av (L),Evening,1,779725,161973.0,0.128250344672801,Include
+118,3 Av (L),Late Night,2,319696,161973.0,0.625594314598869,Include
+118,3 Av (L),Morning,4,239330,161973.0,1.67133246981156,Include
+119,1 Av (L),Afternoon,20,2248869,121413.0,0.889335928415572,Include
+119,1 Av (L),Evening,9,2432624,121413.0,0.369970862739166,Include
+119,1 Av (L),Late Night,12,766532,121413.0,1.56549237344299,Include
+119,1 Av (L),Morning,7,1880764,121413.0,0.37218917418666,Include
+120,Bedford Av (L),Afternoon,21,2775037,144083.0,0.756746666801199,Include
+120,Bedford Av (L),Evening,41,3133395,144083.0,1.30848488620171,Include
+120,Bedford Av (L),Late Night,50,1052036,144083.0,4.75268907147664,Include
+120,Bedford Av (L),Morning,9,2876990,144083.0,0.312826947608438,Include
+122,Graham Av (L),Afternoon,8,677419,144872.0,1.18095299954681,Include
+122,Graham Av (L),Evening,30,594697,144872.0,5.04458573021219,Include
+122,Graham Av (L),Late Night,12,190908,144872.0,6.28575020428688,Include
+122,Graham Av (L),Morning,4,1012564,144872.0,0.395036758170348,Include
+123,Grand St (L),Afternoon,8,538438,141250.0,1.48577923549229,Include
+123,Grand St (L),Evening,8,439805,141250.0,1.81898796057344,Include
+123,Grand St (L),Late Night,4,164043,141250.0,2.43838505757637,Include
+123,Grand St (L),Morning,4,562501,141250.0,0.711109846915828,Include
+124,Montrose Av (L),Afternoon,2,523623,82423.0,0.381954192233725,Include
+124,Montrose Av (L),Evening,8,453091,82423.0,1.76564972599323,Include
+124,Montrose Av (L),Late Night,8,176037,82423.0,4.54449916778859,Include
+124,Montrose Av (L),Morning,3,679650,82423.0,0.441403663650408,Include
+125,Morgan Av (L),Afternoon,57,667398,70598.0,8.54063092787212,Include
+125,Morgan Av (L),Evening,70,581725,70598.0,12.0331771885341,Include
+125,Morgan Av (L),Late Night,38,175154,70598.0,21.6951939436153,Include
+125,Morgan Av (L),Morning,13,660575,70598.0,1.96798243954131,Include
+126,Jefferson St (L),Afternoon,19,697040,89511.0,2.72581200504993,Include
+126,Jefferson St (L),Evening,33,668071,89511.0,4.93959474367245,Include
+126,Jefferson St (L),Late Night,44,430683,89511.0,10.2163308047915,Include
+126,Jefferson St (L),Morning,4,817777,89511.0,0.489130899988628,Include
+127,DeKalb Av (L),Afternoon,46,864699,94517.0,5.31977023218484,Include
+127,DeKalb Av (L),Evening,52,592104,94517.0,8.7822409576696,Include
+127,DeKalb Av (L),Late Night,28,225243,94517.0,12.4310189439849,Include
+127,DeKalb Av (L),Morning,12,1580302,94517.0,0.759348529584852,Include
+129,Halsey St (L),Afternoon,3,504423,86667.0,0.594738939342576,Include
+129,Halsey St (L),Evening,9,365306,86667.0,2.46368797665519,Include
+129,Halsey St (L),Late Night,4,172428,86667.0,2.31980884775095,Include
+129,Halsey St (L),Morning,8,1085836,86667.0,0.736759510644333,Include
+130,Wilson Av (L),Afternoon,18,323076,78220.0,5.5714444898414,Include
+130,Wilson Av (L),Evening,31,213623,78220.0,14.5115460413907,Include
+130,Wilson Av (L),Late Night,5,88790,78220.0,5.63126478207005,Low Ridership
+130,Wilson Av (L),Morning,4,536036,78220.0,0.74621853756091,Include
+131,Bushwick Av-Aberdeen St (L),Afternoon,8,175987,69437.0,4.54579031405729,Include
+131,Bushwick Av-Aberdeen St (L),Evening,6,117871,69437.0,5.09031059378473,Include
+131,Bushwick Av-Aberdeen St (L),Late Night,3,45971,69437.0,6.52585325531313,Low Ridership
+131,Bushwick Av-Aberdeen St (L),Morning,3,269387,69437.0,1.11363948520159,Include
+133,Atlantic Av (L),Afternoon,19,179423,82422.0,10.5895007886391,Include
+133,Atlantic Av (L),Evening,39,130584,82422.0,29.8658334864915,Include
+133,Atlantic Av (L),Late Night,20,46845,82422.0,42.693990820792,Low Ridership
+133,Atlantic Av (L),Morning,9,241521,82422.0,3.72638404113928,Include
+134,Sutter Av (L),Afternoon,13,184815,44875.0,7.03406108811514,Include
+134,Sutter Av (L),Evening,17,115854,44875.0,14.6736409619003,Include
+134,Sutter Av (L),Late Night,9,67298,44875.0,13.3733543344527,Low Ridership
+134,Sutter Av (L),Morning,8,276189,44875.0,2.89656720579024,Include
+135,Livonia Av (L),Afternoon,18,184537,22321.0,9.7541414458889,Include
+135,Livonia Av (L),Evening,29,141006,22321.0,20.5665007162816,Include
+135,Livonia Av (L),Late Night,11,63364,22321.0,17.3600151505587,Low Ridership
+135,Livonia Av (L),Morning,13,272791,22321.0,4.76555311575529,Include
+136,New Lots Av (L),Afternoon,18,203714,44978.0,8.83591702092149,Include
+136,New Lots Av (L),Evening,32,133457,44978.0,23.9777606270184,Include
+136,New Lots Av (L),Late Night,29,92759,44978.0,31.2638126758589,Low Ridership
+136,New Lots Av (L),Morning,9,364665,44978.0,2.46801859240673,Include
+137,East 105 St (L),Afternoon,4,158857,71635.0,2.51798787588838,Include
+137,East 105 St (L),Evening,14,99818,71635.0,14.0255264581538,Low Ridership
+137,East 105 St (L),Late Night,3,58037,71635.0,5.16911625342454,Low Ridership
+137,East 105 St (L),Morning,1,282886,71635.0,0.353499289466428,Include
+138,Canarsie-Rockaway Pkwy (L),Afternoon,30,554935,88688.0,5.40603854505483,Include
+138,Canarsie-Rockaway Pkwy (L),Evening,33,384131,88688.0,8.59081927779846,Include
+138,Canarsie-Rockaway Pkwy (L),Late Night,33,254137,88688.0,12.9851221978697,Include
+138,Canarsie-Rockaway Pkwy (L),Morning,33,1072269,88688.0,3.07758594158742,Include
+141,Park Pl (S),Afternoon,5,139047,122353.0,3.59590642013132,Include
+141,Park Pl (S),Evening,3,97136,122353.0,3.08845330258606,Low Ridership
+141,Park Pl (S),Late Night,1,20730,122353.0,4.82392667631452,Low Ridership
+141,Park Pl (S),Morning,4,165472,122353.0,2.41732740282344,Include
+143,Inwood-207 St (A),Afternoon,3,548628,94208.0,0.546818609330913,Include
+143,Inwood-207 St (A),Evening,4,320029,94208.0,1.24988672901518,Include
+143,Inwood-207 St (A),Late Night,7,129833,94208.0,5.39154144169818,Include
+143,Inwood-207 St (A),Morning,4,935931,94208.0,0.427381933069852,Include
+144,Dyckman St (A),Afternoon,2,469231,89476.0,0.426229298575755,Include
+144,Dyckman St (A),Evening,3,248641,89476.0,1.20655885392996,Include
+144,Dyckman St (A),Late Night,1,83073,89476.0,1.2037605479518,Low Ridership
+144,Dyckman St (A),Morning,15,681437,89476.0,2.20123063467349,Include
+145,190 St (A),Afternoon,5,289235,143194.0,1.72869811744775,Include
+145,190 St (A),Evening,0,155925,143194.0,0.0,Include
+145,190 St (A),Late Night,1,37511,143194.0,2.66588467382901,Low Ridership
+145,190 St (A),Morning,4,485180,143194.0,0.82443629168556,Include
+146,181 St (A),Afternoon,1,642589,122654.0,0.155620466581283,Include
+146,181 St (A),Evening,4,357286,122654.0,1.11955128384543,Include
+146,181 St (A),Late Night,6,83661,122654.0,7.17180048051063,Low Ridership
+146,181 St (A),Morning,6,1117561,122654.0,0.536883445288445,Include
+147,175 St (A),Afternoon,10,666492,67024.0,1.50039310299298,Include
+147,175 St (A),Evening,4,442806,67024.0,0.903330126511384,Include
+147,175 St (A),Late Night,6,140865,67024.0,4.25939729528272,Include
+147,175 St (A),Morning,18,1092690,67024.0,1.64731076517585,Include
+149,163 St-Amsterdam Av (C),Afternoon,3,279770,74226.0,1.07230939700468,Include
+149,163 St-Amsterdam Av (C),Evening,1,148944,74226.0,0.671393275324954,Include
+149,163 St-Amsterdam Av (C),Late Night,1,73656,74226.0,1.35766264798523,Low Ridership
+149,163 St-Amsterdam Av (C),Morning,9,435785,74226.0,2.06523859242516,Include
+150,155 St (C),Afternoon,1,183920,71893.0,0.543714658547194,Include
+150,155 St (C),Evening,3,91673,71893.0,3.27250117264625,Low Ridership
+150,155 St (C),Late Night,1,38605,71893.0,2.5903380391141,Low Ridership
+150,155 St (C),Morning,1,266049,71893.0,0.37587061030111,Include
+151,"145 St (A,C,B,D)",Afternoon,46,1674181,69949.0,2.74761211601374,Include
+151,"145 St (A,C,B,D)",Evening,50,1139929,69949.0,4.38623809026703,Include
+151,"145 St (A,C,B,D)",Late Night,38,353279,69949.0,10.7563710268655,Include
+151,"145 St (A,C,B,D)",Morning,26,2099836,69949.0,1.23819193498921,Include
+152,"135 St (C,B)",Afternoon,11,463381,,2.37385650253247,Include
+152,"135 St (C,B)",Evening,5,276989,,1.80512583532198,Include
+152,"135 St (C,B)",Late Night,2,49038,,4.07846975814674,Low Ridership
+152,"135 St (C,B)",Morning,4,440753,,0.907537781932284,Include
+153,"125 St (A,C,B,D)",Afternoon,62,2138040,25357.0,2.89985220108136,Include
+153,"125 St (A,C,B,D)",Evening,42,1715581,25357.0,2.44815021849741,Include
+153,"125 St (A,C,B,D)",Late Night,53,435113,25357.0,12.1807438527463,Include
+153,"125 St (A,C,B,D)",Morning,57,2028776,25357.0,2.80957582305784,Include
+154,"116 St (C,B)",Afternoon,5,491355,47193.0,1.01759420378342,Include
+154,"116 St (C,B)",Evening,6,370675,47193.0,1.61866864503945,Include
+154,"116 St (C,B)",Late Night,2,78278,47193.0,2.55499629525537,Low Ridership
+154,"116 St (C,B)",Morning,1,600286,47193.0,0.166587260072699,Include
+155,"Cathedral Pkwy (110 St) (C,B)",Afternoon,0,601104,111250.0,0.0,Include
+155,"Cathedral Pkwy (110 St) (C,B)",Evening,0,452197,111250.0,0.0,Include
+155,"Cathedral Pkwy (110 St) (C,B)",Late Night,0,90004,111250.0,0.0,Low Ridership
+155,"Cathedral Pkwy (110 St) (C,B)",Morning,0,729483,111250.0,0.0,Include
+156,"103 St (C,B)",Afternoon,7,353053,44263.0,1.98270514625283,Include
+156,"103 St (C,B)",Evening,1,262073,44263.0,0.381573073151374,Include
+156,"103 St (C,B)",Late Night,4,47082,44263.0,8.49581581071322,Low Ridership
+156,"103 St (C,B)",Morning,6,454920,44263.0,1.31891321551042,Include
+157,"96 St (C,B)",Afternoon,2,868042,,0.230403597982586,Include
+157,"96 St (C,B)",Evening,0,681586,,0.0,Include
+157,"96 St (C,B)",Late Night,1,67886,,1.47305777332587,Low Ridership
+157,"96 St (C,B)",Morning,4,667946,,0.59885080530462,Include
+158,"86 St (C,B)",Afternoon,5,1018541,162625.0,0.49089825544578,Include
+158,"86 St (C,B)",Evening,0,811000,162625.0,0.0,Include
+158,"86 St (C,B)",Late Night,2,99800,162625.0,2.00400801603206,Low Ridership
+158,"86 St (C,B)",Morning,3,774060,162625.0,0.387566855282536,Include
+159,"81 St-Museum of Natural History (C,B)",Afternoon,2,1650114,,0.121203747135046,Include
+159,"81 St-Museum of Natural History (C,B)",Evening,1,1135403,,0.0880744546209584,Include
+159,"81 St-Museum of Natural History (C,B)",Late Night,0,140630,,0.0,Include
+159,"81 St-Museum of Natural History (C,B)",Morning,2,557400,,0.35880875493362,Include
+160,"72 St (C,B)",Afternoon,2,1084703,,0.184382268694749,Include
+160,"72 St (C,B)",Evening,1,894623,,0.111778928107147,Include
+160,"72 St (C,B)",Late Night,3,105101,,2.85439719888488,Include
+160,"72 St (C,B)",Morning,0,577622,,0.0,Include
+162,"50 St (C,E)",Afternoon,17,1792396,156829.0,0.948451123524043,Include
+162,"50 St (C,E)",Evening,10,2009636,156829.0,0.497602550909717,Include
+162,"50 St (C,E)",Late Night,21,784042,156829.0,2.67842794136028,Include
+162,"50 St (C,E)",Morning,13,1287081,156829.0,1.010037441311,Include
+164,"34 St-Penn Station (A,C,E)",Afternoon,141,5565373,163542.0,2.53352291032425,Include
+164,"34 St-Penn Station (A,C,E)",Evening,43,6483933,163542.0,0.663177734871721,Include
+164,"34 St-Penn Station (A,C,E)",Late Night,36,1831500,163542.0,1.96560196560197,Include
+164,"34 St-Penn Station (A,C,E)",Morning,40,6432222,163542.0,0.621869083498673,Include
+165,"23 St (C,E)",Afternoon,18,1694644,160866.0,1.06216998968515,Include
+165,"23 St (C,E)",Evening,8,1854369,160866.0,0.431413596754475,Include
+165,"23 St (C,E)",Late Night,8,356381,160866.0,2.24478858300527,Include
+165,"23 St (C,E)",Morning,9,1221207,160866.0,0.736975795258298,Include
+167,"W 4 St-Wash Sq (A,C,E,B,D,F,M)",Afternoon,110,3636694,150449.0,3.02472520371524,Include
+167,"W 4 St-Wash Sq (A,C,E,B,D,F,M)",Evening,117,4669221,150449.0,2.50577130532052,Include
+167,"W 4 St-Wash Sq (A,C,E,B,D,F,M)",Late Night,310,1918209,150449.0,16.1609084307289,Include
+167,"W 4 St-Wash Sq (A,C,E,B,D,F,M)",Morning,50,1826686,150449.0,2.7371973070358,Include
+168,"Spring St (C,E)",Afternoon,1,1382647,250000.0,0.0723250403031287,Include
+168,"Spring St (C,E)",Evening,4,1647636,250000.0,0.242772068587965,Include
+168,"Spring St (C,E)",Late Night,9,232783,250000.0,3.8662617115511,Include
+168,"Spring St (C,E)",Morning,4,510064,250000.0,0.784215314156655,Include
+169,"Canal St (A,C,E)",Afternoon,42,1490970,250000.0,2.81695808768788,Include
+169,"Canal St (A,C,E)",Evening,28,1932193,250000.0,1.44913059927243,Include
+169,"Canal St (A,C,E)",Late Night,77,358906,250000.0,21.4540854708475,Include
+169,"Canal St (A,C,E)",Morning,33,589372,250000.0,5.59918014428918,Include
+173,"High St (A,C)",Afternoon,12,957718,139866.0,1.25297843415285,Include
+173,"High St (A,C)",Evening,10,1012025,139866.0,0.988117882463378,Include
+173,"High St (A,C)",Late Night,6,176676,139866.0,3.3960470012905,Include
+173,"High St (A,C)",Morning,7,668952,139866.0,1.04641289659049,Include
+175,"Hoyt-Schermerhorn Sts (A,C,G)",Afternoon,52,1058213,229002.0,4.9139445461358,Include
+175,"Hoyt-Schermerhorn Sts (A,C,G)",Evening,45,1034366,229002.0,4.3504910254204,Include
+175,"Hoyt-Schermerhorn Sts (A,C,G)",Late Night,41,227653,229002.0,18.0098658923889,Include
+175,"Hoyt-Schermerhorn Sts (A,C,G)",Morning,46,767677,229002.0,5.99210344975817,Include
+176,Lafayette Av (C),Afternoon,1,446841,175294.0,0.223793250843141,Include
+176,Lafayette Av (C),Evening,6,434489,175294.0,1.38093254374679,Include
+176,Lafayette Av (C),Late Night,2,143718,175294.0,1.39161413323314,Include
+176,Lafayette Av (C),Morning,7,366220,175294.0,1.91141936540877,Include
+177,Clinton-Washington Avs (C),Afternoon,14,540325,130688.0,2.59103317447832,Include
+177,Clinton-Washington Avs (C),Evening,11,448514,130688.0,2.45254328738902,Include
+177,Clinton-Washington Avs (C),Late Night,11,85656,130688.0,12.8420659381713,Low Ridership
+177,Clinton-Washington Avs (C),Morning,15,818977,130688.0,1.83155326706367,Include
+179,"Nostrand Av (A,C)",Afternoon,51,1246988,103194.0,4.08985491440174,Include
+179,"Nostrand Av (A,C)",Evening,101,985443,103194.0,10.2491975690121,Include
+179,"Nostrand Av (A,C)",Late Night,40,231983,103194.0,17.2426427798589,Include
+179,"Nostrand Av (A,C)",Morning,71,1853159,103194.0,3.83129564165838,Include
+180,Kingston-Throop Avs (C),Afternoon,36,501724,96006.0,7.17525970453875,Include
+180,Kingston-Throop Avs (C),Evening,5,334275,96006.0,1.49577443721487,Include
+180,Kingston-Throop Avs (C),Late Night,8,97730,96006.0,8.18581807019339,Low Ridership
+180,Kingston-Throop Avs (C),Morning,29,711768,96006.0,4.07436130874105,Include
+181,"Utica Av (A,C)",Afternoon,200,960436,70536.0,20.8238758230637,Include
+181,"Utica Av (A,C)",Evening,136,653357,70536.0,20.8155724971187,Include
+181,"Utica Av (A,C)",Late Night,97,238915,70536.0,40.6002134650399,Include
+181,"Utica Av (A,C)",Morning,70,1712558,70536.0,4.08745280451815,Include
+182,Ralph Av (C),Afternoon,96,349288,98438.0,27.4844827191315,Include
+182,Ralph Av (C),Evening,134,213139,98438.0,62.8697704315024,Include
+182,Ralph Av (C),Late Night,78,89094,98438.0,87.5479830291602,Low Ridership
+182,Ralph Av (C),Morning,29,591825,98438.0,4.9000971570988,Include
+183,Rockaway Av (C),Afternoon,57,363859,98438.0,15.6654088534295,Include
+183,Rockaway Av (C),Evening,35,201551,98438.0,17.3653318514917,Include
+183,Rockaway Av (C),Late Night,13,98760,98438.0,13.1632239773188,Low Ridership
+183,Rockaway Av (C),Morning,20,607487,98438.0,3.29225152143173,Include
+185,Liberty Av (C),Afternoon,35,178096,60289.0,19.652322343006,Include
+185,Liberty Av (C),Evening,6,94126,60289.0,6.37443426895863,Low Ridership
+185,Liberty Av (C),Late Night,6,49680,60289.0,12.0772946859903,Low Ridership
+185,Liberty Av (C),Morning,14,234982,60289.0,5.9579031585398,Include
+186,Van Siclen Av (C),Afternoon,28,169986,58542.0,16.471944748391,Include
+186,Van Siclen Av (C),Evening,23,83675,58542.0,27.4873020615477,Low Ridership
+186,Van Siclen Av (C),Late Night,13,66444,58542.0,19.5653482631991,Low Ridership
+186,Van Siclen Av (C),Morning,9,358589,58542.0,2.509837167342,Include
+187,Shepherd Av (C),Afternoon,0,149001,42158.0,0.0,Include
+187,Shepherd Av (C),Evening,1,72172,42158.0,1.38557889486227,Low Ridership
+187,Shepherd Av (C),Late Night,2,69021,42158.0,2.89766882542994,Low Ridership
+187,Shepherd Av (C),Morning,3,300862,42158.0,0.99713489905671,Include
+188,"Euclid Av (A,C)",Afternoon,26,546473,56513.0,4.7577830926688,Include
+188,"Euclid Av (A,C)",Evening,30,285390,56513.0,10.5119310417324,Include
+188,"Euclid Av (A,C)",Late Night,63,196752,56513.0,32.0200048792388,Include
+188,"Euclid Av (A,C)",Morning,31,1185990,56513.0,2.61385003246233,Include
+189,Grant Av (A),Afternoon,35,292268,100559.0,11.9753103316134,Include
+189,Grant Av (A),Evening,39,148542,100559.0,26.2552005493396,Include
+189,Grant Av (A),Late Night,45,96178,100559.0,46.7882467924058,Low Ridership
+189,Grant Av (A),Morning,27,639784,100559.0,4.22017430882923,Include
+190,80 St (A),Afternoon,3,231160,61920.0,1.29780238795639,Include
+190,80 St (A),Evening,4,112208,61920.0,3.56480821331812,Include
+190,80 St (A),Late Night,5,95327,61920.0,5.24510369570006,Low Ridership
+190,80 St (A),Morning,2,533615,61920.0,0.374802057663297,Include
+191,88 St (A),Afternoon,1,125451,78633.0,0.797123976692095,Include
+191,88 St (A),Evening,2,54952,78633.0,3.63953996214878,Low Ridership
+191,88 St (A),Late Night,4,66639,78633.0,6.00249103377902,Low Ridership
+191,88 St (A),Morning,0,380309,78633.0,0.0,Include
+192,Rockaway Blvd (A),Afternoon,11,401289,89667.0,2.74116659066159,Include
+192,Rockaway Blvd (A),Evening,34,255346,89667.0,13.3152663444894,Include
+192,Rockaway Blvd (A),Late Night,13,173888,89667.0,7.47607655502392,Include
+192,Rockaway Blvd (A),Morning,4,821853,89667.0,0.486705043359336,Include
+193,104 St (A),Afternoon,1,88443,73636.0,1.13067173207603,Low Ridership
+193,104 St (A),Evening,0,42583,73636.0,0.0,Low Ridership
+193,104 St (A),Late Night,2,38344,73636.0,5.21593991237221,Low Ridership
+193,104 St (A),Morning,0,221766,73636.0,0.0,Include
+194,111 St (A),Afternoon,0,85375,124423.0,0.0,Low Ridership
+194,111 St (A),Evening,1,45788,124423.0,2.18397833493492,Low Ridership
+194,111 St (A),Late Night,6,49643,124423.0,12.0862961545434,Low Ridership
+194,111 St (A),Morning,0,288016,124423.0,0.0,Include
+195,Ozone Park-Lefferts Blvd (A),Afternoon,12,281918,121250.0,4.25655687114693,Include
+195,Ozone Park-Lefferts Blvd (A),Evening,14,180964,121250.0,7.73634535045644,Include
+195,Ozone Park-Lefferts Blvd (A),Late Night,11,178190,121250.0,6.17318592513609,Include
+195,Ozone Park-Lefferts Blvd (A),Morning,1,781603,121250.0,0.127942190600599,Include
+196,Aqueduct Racetrack (A),Afternoon,1,54264,128398.0,1.84284240011794,Low Ridership
+196,Aqueduct Racetrack (A),Evening,0,55919,128398.0,0.0,Low Ridership
+196,Aqueduct Racetrack (A),Late Night,1,27400,128398.0,3.64963503649635,Low Ridership
+196,Aqueduct Racetrack (A),Morning,0,35405,128398.0,0.0,Low Ridership
+197,Aqueduct-N Conduit Av (A),Afternoon,0,42609,127313.0,0.0,Low Ridership
+197,Aqueduct-N Conduit Av (A),Evening,3,23597,127313.0,12.7134805271857,Low Ridership
+197,Aqueduct-N Conduit Av (A),Late Night,3,25329,127313.0,11.8441312329741,Low Ridership
+197,Aqueduct-N Conduit Av (A),Morning,0,93181,127313.0,0.0,Low Ridership
+198,Howard Beach-JFK Airport (A),Afternoon,27,463473,96806.0,5.8255820727421,Include
+198,Howard Beach-JFK Airport (A),Evening,39,361689,96806.0,10.7827442913663,Include
+198,Howard Beach-JFK Airport (A),Late Night,44,231924,96806.0,18.9717321191425,Include
+198,Howard Beach-JFK Airport (A),Morning,13,517557,96806.0,2.51180063258733,Include
+199,"Broad Channel (A,S)",Afternoon,5,9840,111354.0,50.8130081300813,Low Ridership
+199,"Broad Channel (A,S)",Evening,7,6867,111354.0,101.936799184506,Low Ridership
+199,"Broad Channel (A,S)",Late Night,5,6876,111354.0,72.716695753345,Low Ridership
+199,"Broad Channel (A,S)",Morning,1,19433,111354.0,5.14588586425153,Low Ridership
+200,"Beach 90 St (A,S)",Afternoon,1,40809,56800.0,2.45043985395378,Low Ridership
+200,"Beach 90 St (A,S)",Evening,1,44558,56800.0,2.24426590062391,Low Ridership
+200,"Beach 90 St (A,S)",Late Night,0,12540,56800.0,0.0,Low Ridership
+200,"Beach 90 St (A,S)",Morning,0,46856,56800.0,0.0,Low Ridership
+201,"Beach 98 St (A,S)",Afternoon,1,25860,75966.0,3.86697602474865,Low Ridership
+201,"Beach 98 St (A,S)",Evening,1,21938,75966.0,4.5583006655119,Low Ridership
+201,"Beach 98 St (A,S)",Late Night,0,6616,75966.0,0.0,Low Ridership
+201,"Beach 98 St (A,S)",Morning,0,24430,75966.0,0.0,Low Ridership
+202,"Beach 105 St (A,S)",Afternoon,0,19776,81573.0,0.0,Low Ridership
+202,"Beach 105 St (A,S)",Evening,0,19364,81573.0,0.0,Low Ridership
+202,"Beach 105 St (A,S)",Late Night,0,4832,81573.0,0.0,Low Ridership
+202,"Beach 105 St (A,S)",Morning,1,13224,81573.0,7.56200846944949,Low Ridership
+203,"Rockaway Park-Beach 116 St (A,S)",Afternoon,1,39457,81573.0,2.53440454165294,Low Ridership
+203,"Rockaway Park-Beach 116 St (A,S)",Evening,2,36557,81573.0,5.47090844434718,Low Ridership
+203,"Rockaway Park-Beach 116 St (A,S)",Late Night,6,16997,81573.0,35.30034712008,Low Ridership
+203,"Rockaway Park-Beach 116 St (A,S)",Morning,2,41095,81573.0,4.86677211339579,Low Ridership
+204,Beach 67 St (A),Afternoon,2,95909,82053.0,2.08531003346923,Low Ridership
+204,Beach 67 St (A),Evening,2,70840,82053.0,2.82326369282891,Low Ridership
+204,Beach 67 St (A),Late Night,3,41032,82053.0,7.31136673815559,Low Ridership
+204,Beach 67 St (A),Morning,4,139119,82053.0,2.8752363084841,Include
+205,Beach 60 St (A),Afternoon,3,62993,22500.0,4.76243392122934,Low Ridership
+205,Beach 60 St (A),Evening,7,36683,22500.0,19.0824087451953,Low Ridership
+205,Beach 60 St (A),Late Night,3,34725,22500.0,8.63930885529158,Low Ridership
+205,Beach 60 St (A),Morning,1,100534,22500.0,0.994688364135516,Include
+206,Beach 44 St (A),Afternoon,3,24974,22500.0,12.0124929927124,Low Ridership
+206,Beach 44 St (A),Evening,0,14281,22500.0,0.0,Low Ridership
+206,Beach 44 St (A),Late Night,1,13183,22500.0,7.58552681483729,Low Ridership
+206,Beach 44 St (A),Morning,0,46602,22500.0,0.0,Low Ridership
+207,Beach 36 St (A),Afternoon,0,25642,36736.0,0.0,Low Ridership
+207,Beach 36 St (A),Evening,1,16577,36736.0,6.03245460577909,Low Ridership
+207,Beach 36 St (A),Late Night,0,13436,36736.0,0.0,Low Ridership
+207,Beach 36 St (A),Morning,1,50408,36736.0,1.98381209331852,Low Ridership
+208,Beach 25 St (A),Afternoon,1,52592,70278.0,1.9014298752662,Low Ridership
+208,Beach 25 St (A),Evening,2,24755,70278.0,8.07917592405575,Low Ridership
+208,Beach 25 St (A),Late Night,2,30050,70278.0,6.65557404326123,Low Ridership
+208,Beach 25 St (A),Morning,5,92816,70278.0,5.38700224099293,Low Ridership
+209,Far Rockaway-Mott Av (A),Afternoon,23,224167,46534.0,10.2602077915126,Include
+209,Far Rockaway-Mott Av (A),Evening,28,152557,46534.0,18.3537956304857,Include
+209,Far Rockaway-Mott Av (A),Late Night,28,102765,46534.0,27.2466306621904,Include
+209,Far Rockaway-Mott Av (A),Morning,25,292336,46534.0,8.5518034043019,Include
+210,Norwood-205 St (D),Afternoon,7,376550,71422.0,1.85898287080069,Include
+210,Norwood-205 St (D),Evening,2,197445,71422.0,1.01294031249209,Include
+210,Norwood-205 St (D),Late Night,16,137558,71422.0,11.6314572762035,Include
+210,Norwood-205 St (D),Morning,8,688321,71422.0,1.1622484276958,Include
+211,"Bedford Park Blvd (B,D)",Afternoon,4,389465,60254.0,1.0270499274646,Include
+211,"Bedford Park Blvd (B,D)",Evening,11,200262,60254.0,5.49280442620168,Include
+211,"Bedford Park Blvd (B,D)",Late Night,13,131448,60254.0,9.88984237112775,Include
+211,"Bedford Park Blvd (B,D)",Morning,19,678062,60254.0,2.80210364243978,Include
+212,"Kingsbridge Rd (B,D)",Afternoon,41,352527,37756.0,11.6303148411327,Include
+212,"Kingsbridge Rd (B,D)",Evening,62,170248,37756.0,36.4174615854518,Include
+212,"Kingsbridge Rd (B,D)",Late Night,39,126569,37756.0,30.8132323080691,Include
+212,"Kingsbridge Rd (B,D)",Morning,70,703334,37756.0,9.95259720132967,Include
+213,"Fordham Rd (B,D)",Afternoon,54,573451,34922.0,9.41667204347015,Include
+213,"Fordham Rd (B,D)",Evening,103,347337,34922.0,29.6541975084716,Include
+213,"Fordham Rd (B,D)",Late Night,40,167285,34922.0,23.9112891173745,Include
+213,"Fordham Rd (B,D)",Morning,37,829171,34922.0,4.4622882372876,Include
+214,"182-183 Sts (B,D)",Afternoon,12,290650,44040.0,4.1286771030449,Include
+214,"182-183 Sts (B,D)",Evening,10,136652,44040.0,7.31785850188801,Include
+214,"182-183 Sts (B,D)",Late Night,11,102933,44040.0,10.6865631041551,Include
+214,"182-183 Sts (B,D)",Morning,16,444988,44040.0,3.59560257804705,Include
+215,"Tremont Av (B,D)",Afternoon,66,434163,19940.0,15.2016638912114,Include
+215,"Tremont Av (B,D)",Evening,110,225772,19940.0,48.7217192565952,Include
+215,"Tremont Av (B,D)",Late Night,49,160306,19940.0,30.5665414894015,Include
+215,"Tremont Av (B,D)",Morning,63,952411,19940.0,6.61479130333438,Include
+216,"174-175 Sts (B,D)",Afternoon,12,307717,52222.0,3.89968705011423,Include
+216,"174-175 Sts (B,D)",Evening,6,156886,52222.0,3.82443302780363,Include
+216,"174-175 Sts (B,D)",Late Night,8,77414,52222.0,10.3340481049939,Low Ridership
+216,"174-175 Sts (B,D)",Morning,13,404548,52222.0,3.21346292652541,Include
+217,"170 St (B,D)",Afternoon,41,384982,50243.0,10.6498485643485,Include
+217,"170 St (B,D)",Evening,17,156860,50243.0,10.837689659569,Include
+217,"170 St (B,D)",Late Night,14,98313,50243.0,14.2402327260891,Low Ridership
+217,"170 St (B,D)",Morning,37,548800,50243.0,6.74198250728863,Include
+218,"167 St (B,D)",Afternoon,9,508092,25439.0,1.77133275076167,Include
+218,"167 St (B,D)",Evening,9,245392,25439.0,3.66760122579383,Include
+218,"167 St (B,D)",Late Night,13,167195,25439.0,7.77535213373606,Include
+218,"167 St (B,D)",Morning,17,804435,25439.0,2.11328447916861,Include
+220,"155 St (B,D)",Afternoon,8,183037,23574.0,4.37070100580757,Include
+220,"155 St (B,D)",Evening,11,107097,23574.0,10.2710626814943,Include
+220,"155 St (B,D)",Late Night,11,51455,23574.0,21.3779030220581,Low Ridership
+220,"155 St (B,D)",Morning,4,265408,23574.0,1.50711357607909,Include
+221,21 St-Queensbridge (M),Afternoon,106,871968,26044.0,12.1564094095196,Include
+221,21 St-Queensbridge (M),Evening,79,622134,26044.0,12.6982289988973,Include
+221,21 St-Queensbridge (M),Late Night,30,151237,26044.0,19.8364156919272,Include
+221,21 St-Queensbridge (M),Morning,19,1196714,26044.0,1.58768093295474,Include
+222,Roosevelt Island (M),Afternoon,0,729904,183536.0,0.0,Include
+222,Roosevelt Island (M),Evening,0,546384,183536.0,0.0,Include
+222,Roosevelt Island (M),Late Night,0,100994,183536.0,0.0,Include
+222,Roosevelt Island (M),Morning,0,900972,183536.0,0.0,Include
+223,"Lexington Av/63 St (M,Q)",Afternoon,10,1616956,192644.0,0.618446018320845,Include
+223,"Lexington Av/63 St (M,Q)",Evening,8,1687135,192644.0,0.474176636724388,Include
+223,"Lexington Av/63 St (M,Q)",Late Night,5,318605,192644.0,1.56934134743648,Include
+223,"Lexington Av/63 St (M,Q)",Morning,15,981595,192644.0,1.52812514326173,Include
+224,57 St (M),Afternoon,7,1356738,167929.0,0.515943387743249,Include
+224,57 St (M),Evening,3,1633596,167929.0,0.183643936444506,Include
+224,57 St (M),Late Night,15,372649,167929.0,4.02523554336655,Include
+224,57 St (M),Morning,7,452889,167929.0,1.54563259430015,Include
+225,"47-50 Sts-Rockefeller Ctr (B,D,F,M)",Afternoon,37,4547379,171250.0,0.813655514528259,Include
+225,"47-50 Sts-Rockefeller Ctr (B,D,F,M)",Evening,28,6814108,171250.0,0.410912183957166,Include
+225,"47-50 Sts-Rockefeller Ctr (B,D,F,M)",Late Night,37,1102206,171250.0,3.35690424476005,Include
+225,"47-50 Sts-Rockefeller Ctr (B,D,F,M)",Morning,20,1109821,171250.0,1.80209240949667,Include
+228,"23 St (F,M)",Afternoon,7,2031119,206827.0,0.344637611090241,Include
+228,"23 St (F,M)",Evening,8,2488529,206827.0,0.321475056147628,Include
+228,"23 St (F,M)",Late Night,4,321298,206827.0,1.24495017086941,Include
+228,"23 St (F,M)",Morning,4,1504873,206827.0,0.265803160798287,Include
+231,"Grand St (B,D)",Afternoon,8,2248369,76726.0,0.3558134807943,Include
+231,"Grand St (B,D)",Evening,5,2203846,76726.0,0.22687610658821,Include
+231,"Grand St (B,D)",Late Night,4,432137,76726.0,0.925632380471934,Include
+231,"Grand St (B,D)",Morning,12,1138082,76726.0,1.05440557007316,Include
+232,2 Av (F),Afternoon,104,1333928,155000.0,7.79652275085312,Include
+232,2 Av (F),Evening,64,1538095,155000.0,4.16099135619061,Include
+232,2 Av (F),Late Night,34,675449,155000.0,5.03368870188571,Include
+232,2 Av (F),Morning,41,1029171,155000.0,3.98378889416822,Include
+234,East Broadway (F),Afternoon,17,1293230,36893.0,1.31453801721272,Include
+234,East Broadway (F),Evening,14,1195965,36893.0,1.17060281864436,Include
+234,East Broadway (F),Late Night,20,299910,36893.0,6.66866726684672,Include
+234,East Broadway (F),Morning,13,1061954,36893.0,1.22415848520746,Include
+235,York St (F),Afternoon,8,1388204,250000.0,0.576284177253487,Include
+235,York St (F),Evening,9,1494362,250000.0,0.602263708525779,Include
+235,York St (F),Late Night,8,220477,250000.0,3.62849639644952,Include
+235,York St (F),Morning,6,767843,250000.0,0.781409741314305,Include
+236,"Bergen St (F,G)",Afternoon,23,975097,149936.0,2.358739694615,Include
+236,"Bergen St (F,G)",Evening,12,901278,149936.0,1.33144268472103,Include
+236,"Bergen St (F,G)",Late Night,14,169421,149936.0,8.2634384167252,Include
+236,"Bergen St (F,G)",Morning,11,924297,149936.0,1.19009366037107,Include
+237,"Carroll St (F,G)",Afternoon,6,956611,212827.0,0.627214196784273,Include
+237,"Carroll St (F,G)",Evening,5,774786,212827.0,0.645339487290684,Include
+237,"Carroll St (F,G)",Late Night,12,128186,212827.0,9.36139672039068,Include
+237,"Carroll St (F,G)",Morning,7,1160388,212827.0,0.603246500308517,Include
+238,"Smith-9 Sts (F,G)",Afternoon,36,376132,,9.57110801527123,Include
+238,"Smith-9 Sts (F,G)",Evening,26,335806,,7.74256564802297,Include
+238,"Smith-9 Sts (F,G)",Late Night,8,65282,,12.2545265157317,Low Ridership
+238,"Smith-9 Sts (F,G)",Morning,21,288250,,7.28534258456201,Include
+240,"7 Av (F,G)",Afternoon,10,988556,188866.0,1.01157648125144,Include
+240,"7 Av (F,G)",Evening,5,771578,188866.0,0.648022623765841,Include
+240,"7 Av (F,G)",Late Night,4,113685,188866.0,3.51849408453182,Include
+240,"7 Av (F,G)",Morning,10,1128909,188866.0,0.885810990965614,Include
+241,"15 St-Prospect Park (F,G)",Afternoon,6,427110,140727.0,1.40479033504249,Include
+241,"15 St-Prospect Park (F,G)",Evening,7,337968,140727.0,2.07120200729063,Include
+241,"15 St-Prospect Park (F,G)",Late Night,6,72984,140727.0,8.22097994080895,Low Ridership
+241,"15 St-Prospect Park (F,G)",Morning,4,639353,140727.0,0.625632475330529,Include
+242,"Fort Hamilton Pkwy (F,G)",Afternoon,0,384314,156033.0,0.0,Include
+242,"Fort Hamilton Pkwy (F,G)",Evening,0,249446,156033.0,0.0,Include
+242,"Fort Hamilton Pkwy (F,G)",Late Night,2,46172,156033.0,4.33162955904011,Low Ridership
+242,"Fort Hamilton Pkwy (F,G)",Morning,0,754225,156033.0,0.0,Include
+243,"Church Av (F,G)",Afternoon,4,591207,66920.0,0.676581975517881,Include
+243,"Church Av (F,G)",Evening,5,400598,66920.0,1.24813403961078,Include
+243,"Church Av (F,G)",Late Night,28,150163,66920.0,18.6464042407251,Include
+243,"Church Av (F,G)",Morning,5,1100882,66920.0,0.454181283734315,Include
+244,Ditmas Av (F),Afternoon,2,241078,65714.0,0.82960701515692,Include
+244,Ditmas Av (F),Evening,1,154446,65714.0,0.647475493052588,Include
+244,Ditmas Av (F),Late Night,15,54680,65714.0,27.4323335771763,Low Ridership
+244,Ditmas Av (F),Morning,1,410683,65714.0,0.243496808974318,Include
+245,18 Av (F),Afternoon,2,235675,52940.0,0.848626286199215,Include
+245,18 Av (F),Evening,2,159824,52940.0,1.25137651416558,Include
+245,18 Av (F),Late Night,2,49660,52940.0,4.02738622633911,Low Ridership
+245,18 Av (F),Morning,1,354048,52940.0,0.282447577729573,Include
+246,Avenue I (F),Afternoon,2,119359,85536.0,1.6756172555065,Include
+246,Avenue I (F),Evening,3,92624,85536.0,3.23890136465711,Low Ridership
+246,Avenue I (F),Late Night,0,19217,85536.0,0.0,Low Ridership
+246,Avenue I (F),Morning,2,116048,85536.0,1.72342478974218,Include
+247,Bay Pkwy (F),Afternoon,2,64654,90893.0,3.09338942679494,Low Ridership
+247,Bay Pkwy (F),Evening,1,43470,90893.0,2.30043708304578,Low Ridership
+247,Bay Pkwy (F),Late Night,0,17439,90893.0,0.0,Low Ridership
+247,Bay Pkwy (F),Morning,0,118427,90893.0,0.0,Include
+248,Avenue N (F),Afternoon,0,145039,69099.0,0.0,Include
+248,Avenue N (F),Evening,0,103831,69099.0,0.0,Include
+248,Avenue N (F),Late Night,2,41128,69099.0,4.86286714646956,Low Ridership
+248,Avenue N (F),Morning,1,312011,69099.0,0.320501520779716,Include
+249,Avenue P (F),Afternoon,2,121990,70066.0,1.63947864579064,Include
+249,Avenue P (F),Evening,1,85065,70066.0,1.17557162170105,Low Ridership
+249,Avenue P (F),Late Night,7,46847,70066.0,14.9422588426153,Low Ridership
+249,Avenue P (F),Morning,1,315024,70066.0,0.317436131850272,Include
+250,Kings Hwy (F),Afternoon,0,192977,71944.0,0.0,Include
+250,Kings Hwy (F),Evening,0,124267,71944.0,0.0,Include
+250,Kings Hwy (F),Late Night,0,48355,71944.0,0.0,Low Ridership
+250,Kings Hwy (F),Morning,0,353717,71944.0,0.0,Include
+251,Avenue U (F),Afternoon,0,110889,89750.0,0.0,Include
+251,Avenue U (F),Evening,0,80273,89750.0,0.0,Low Ridership
+251,Avenue U (F),Late Night,0,33968,89750.0,0.0,Low Ridership
+251,Avenue U (F),Morning,0,211219,89750.0,0.0,Include
+252,Avenue X (F),Afternoon,4,159384,50865.0,2.50966219946795,Include
+252,Avenue X (F),Evening,0,87403,50865.0,0.0,Low Ridership
+252,Avenue X (F),Late Night,12,48478,50865.0,24.7534964313709,Low Ridership
+252,Avenue X (F),Morning,1,270750,50865.0,0.369344413665743,Include
+253,Neptune Av (F),Afternoon,0,111383,63382.0,0.0,Include
+253,Neptune Av (F),Evening,2,60874,63382.0,3.28547491539902,Low Ridership
+253,Neptune Av (F),Late Night,4,22286,63382.0,17.9484878398995,Low Ridership
+253,Neptune Av (F),Morning,2,145550,63382.0,1.37409824802473,Include
+254,Jamaica-179 St (F),Afternoon,3,878287,83388.0,0.341573995743988,Include
+254,Jamaica-179 St (F),Evening,7,506246,83388.0,1.38272697463289,Include
+254,Jamaica-179 St (F),Late Night,38,473261,83388.0,8.02939604150775,Include
+254,Jamaica-179 St (F),Morning,7,2272816,83388.0,0.307987976149411,Include
+255,169 St (F),Afternoon,14,561200,57184.0,2.49465431218817,Include
+255,169 St (F),Evening,6,292774,57184.0,2.04936230676221,Include
+255,169 St (F),Late Night,10,144774,57184.0,6.90731761227845,Include
+255,169 St (F),Morning,15,797676,57184.0,1.88046274427211,Include
+256,Parsons Blvd (F),Afternoon,5,481896,81557.0,1.0375682719923,Include
+256,Parsons Blvd (F),Evening,2,232157,81557.0,0.861485977162007,Include
+256,Parsons Blvd (F),Late Night,6,158292,81557.0,3.79046319460238,Include
+256,Parsons Blvd (F),Morning,8,756781,81557.0,1.05710899190122,Include
+257,Sutphin Blvd (F),Afternoon,21,287213,59938.0,7.31164675693649,Include
+257,Sutphin Blvd (F),Evening,13,153807,59938.0,8.45215107244794,Include
+257,Sutphin Blvd (F),Late Night,11,99397,59938.0,11.06673239635,Low Ridership
+257,Sutphin Blvd (F),Morning,12,472404,59938.0,2.54019864353392,Include
+258,"Briarwood (E,F)",Afternoon,7,327088,,2.14009685466908,Include
+258,"Briarwood (E,F)",Evening,31,150285,,20.6274744651828,Include
+258,"Briarwood (E,F)",Late Night,94,91345,,102.90656303027,Low Ridership
+258,"Briarwood (E,F)",Morning,13,614334,,2.11611273346421,Include
+259,"Kew Gardens-Union Tpke (E,F)",Afternoon,14,1401978,,0.998589136206132,Include
+259,"Kew Gardens-Union Tpke (E,F)",Evening,15,873892,,1.71645924210314,Include
+259,"Kew Gardens-Union Tpke (E,F)",Late Night,54,381405,,14.1581783143902,Include
+259,"Kew Gardens-Union Tpke (E,F)",Morning,35,2592388,,1.35010654269345,Include
+260,"75 Av (E,F)",Afternoon,1,206810,111389.0,0.483535612397853,Include
+260,"75 Av (E,F)",Evening,8,138165,111389.0,5.79017840987225,Include
+260,"75 Av (E,F)",Late Night,16,41981,111389.0,38.1124794549915,Low Ridership
+260,"75 Av (E,F)",Morning,4,398022,111389.0,1.00496957454613,Include
+261,"Forest Hills-71 Av (E,F,M,R)",Afternoon,24,1781366,116815.0,1.34728068235276,Include
+261,"Forest Hills-71 Av (E,F,M,R)",Evening,69,1234454,116815.0,5.58951568871744,Include
+261,"Forest Hills-71 Av (E,F,M,R)",Late Night,90,464227,116815.0,19.3870671029475,Include
+261,"Forest Hills-71 Av (E,F,M,R)",Morning,19,2894413,116815.0,0.656437073769362,Include
+262,"67 Av (M,R)",Afternoon,2,506938,88329.0,0.394525563283873,Include
+262,"67 Av (M,R)",Evening,1,260329,88329.0,0.384129313292027,Include
+262,"67 Av (M,R)",Late Night,6,91732,88329.0,6.54079274408058,Low Ridership
+262,"67 Av (M,R)",Morning,2,985579,88329.0,0.202926401638022,Include
+263,"63 Dr-Rego Park (M,R)",Afternoon,2,922364,57099.0,0.216834134896852,Include
+263,"63 Dr-Rego Park (M,R)",Evening,3,568723,57099.0,0.527497569115369,Include
+263,"63 Dr-Rego Park (M,R)",Late Night,4,176540,57099.0,2.26577546165175,Include
+263,"63 Dr-Rego Park (M,R)",Morning,1,1592614,57099.0,0.0627898536619671,Include
+264,"Woodhaven Blvd (M,R)",Afternoon,34,1291148,85771.0,2.63331546809506,Include
+264,"Woodhaven Blvd (M,R)",Evening,27,928328,85771.0,2.90845477029671,Include
+264,"Woodhaven Blvd (M,R)",Late Night,17,316731,85771.0,5.367330637039,Include
+264,"Woodhaven Blvd (M,R)",Morning,4,1987508,85771.0,0.201257051543943,Include
+265,"Grand Av-Newtown (M,R)",Afternoon,6,1132414,72441.0,0.529841559712261,Include
+265,"Grand Av-Newtown (M,R)",Evening,7,567354,72441.0,1.23379759374218,Include
+265,"Grand Av-Newtown (M,R)",Late Night,14,300777,72441.0,4.65461122359755,Include
+265,"Grand Av-Newtown (M,R)",Morning,8,2529881,72441.0,0.316220407204924,Include
+266,"Elmhurst Av (M,R)",Afternoon,5,840028,54568.0,0.595218254629608,Include
+266,"Elmhurst Av (M,R)",Evening,15,400812,54568.0,3.7424029220682,Include
+266,"Elmhurst Av (M,R)",Late Night,23,206105,54568.0,11.1593605201232,Include
+266,"Elmhurst Av (M,R)",Morning,10,1808733,54568.0,0.552873199084663,Include
+268,"65 St (M,R)",Afternoon,2,230710,70556.0,0.866889168219843,Include
+268,"65 St (M,R)",Evening,2,134319,70556.0,1.48899262204156,Include
+268,"65 St (M,R)",Late Night,4,69477,70556.0,5.75730097730184,Low Ridership
+268,"65 St (M,R)",Morning,4,446210,70556.0,0.896438896483718,Include
+269,"Northern Blvd (M,R)",Afternoon,3,456270,92260.0,0.657505424419751,Include
+269,"Northern Blvd (M,R)",Evening,2,250668,92260.0,0.797868096446296,Include
+269,"Northern Blvd (M,R)",Late Night,10,115163,92260.0,8.68334447695875,Include
+269,"Northern Blvd (M,R)",Morning,1,797074,92260.0,0.12545886580167,Include
+270,"46 St (M,R)",Afternoon,3,550299,88636.0,0.545158177645244,Include
+270,"46 St (M,R)",Evening,2,329457,88636.0,0.607059494865794,Include
+270,"46 St (M,R)",Late Night,3,104027,88636.0,2.88386668845588,Include
+270,"46 St (M,R)",Morning,0,929455,88636.0,0.0,Include
+271,"Steinway St (M,R)",Afternoon,3,880896,94375.0,0.340562336530078,Include
+271,"Steinway St (M,R)",Evening,2,743313,94375.0,0.269065656056063,Include
+271,"Steinway St (M,R)",Late Night,12,231516,94375.0,5.18322707717825,Include
+271,"Steinway St (M,R)",Morning,2,1133492,94375.0,0.176445885811281,Include
+272,"36 St (M,R)",Afternoon,0,304741,184083.0,0.0,Include
+272,"36 St (M,R)",Evening,1,260661,184083.0,0.383640053556151,Include
+272,"36 St (M,R)",Late Night,7,59809,184083.0,11.7039241585715,Low Ridership
+272,"36 St (M,R)",Morning,1,247461,184083.0,0.404104081047114,Include
+273,"Queens Plaza (E,F,R)",Afternoon,17,1546538,152056.0,1.09922937554719,Include
+273,"Queens Plaza (E,F,R)",Evening,20,1072843,152056.0,1.86420566662596,Include
+273,"Queens Plaza (E,F,R)",Late Night,26,177775,152056.0,14.6252285191956,Include
+273,"Queens Plaza (E,F,R)",Morning,14,1404151,152056.0,0.997043765236075,Include
+276,"5 Av/53 St (E,F)",Afternoon,3,1576862,,0.190251271195577,Include
+276,"5 Av/53 St (E,F)",Evening,3,2208333,,0.135849077109295,Include
+276,"5 Av/53 St (E,F)",Late Night,5,132295,,3.77943232926414,Include
+276,"5 Av/53 St (E,F)",Morning,7,267170,,2.62005464685406,Include
+277,"7 Av (E,B,D)",Afternoon,3,1566757,136346.0,0.191478321143611,Include
+277,"7 Av (E,B,D)",Evening,15,1781643,136346.0,0.841919509127249,Include
+277,"7 Av (E,B,D)",Late Night,17,455517,136346.0,3.7320231736686,Include
+277,"7 Av (E,B,D)",Morning,17,729724,136346.0,2.32964792167998,Include
+278,"Jamaica Center-Parsons/Archer (E,J,Z)",Afternoon,101,1813762,,5.5685365555128,Include
+278,"Jamaica Center-Parsons/Archer (E,J,Z)",Evening,84,1212375,,6.92854933498299,Include
+278,"Jamaica Center-Parsons/Archer (E,J,Z)",Late Night,137,728907,,18.7952646908316,Include
+278,"Jamaica Center-Parsons/Archer (E,J,Z)",Morning,46,3132563,,1.46844612542509,Include
+279,"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)",Afternoon,62,2135751,60486.0,2.9029601297155,Include
+279,"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)",Evening,31,1642147,60486.0,1.88777253193533,Include
+279,"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)",Late Night,40,801812,60486.0,4.9887005931565,Include
+279,"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)",Morning,25,2729280,60486.0,0.915992496189471,Include
+280,Jamaica-Van Wyck (E),Afternoon,4,344288,73446.0,1.16181801282647,Include
+280,Jamaica-Van Wyck (E),Evening,4,208646,73446.0,1.91712278212858,Include
+280,Jamaica-Van Wyck (E),Late Night,3,102512,73446.0,2.92648665522085,Include
+280,Jamaica-Van Wyck (E),Morning,1,492516,73446.0,0.203039089085431,Include
+282,21 St (G),Afternoon,2,171762,136875.0,1.16440190496152,Include
+282,21 St (G),Evening,2,184244,136875.0,1.08551703176223,Include
+282,21 St (G),Late Night,3,35826,136875.0,8.37380673254061,Low Ridership
+282,21 St (G),Morning,2,109210,136875.0,1.83133412691145,Include
+283,Greenpoint Av (G),Afternoon,0,858382,128804.0,0.0,Include
+283,Greenpoint Av (G),Evening,2,829012,128804.0,0.241251031348159,Include
+283,Greenpoint Av (G),Late Night,3,174651,128804.0,1.71771132143532,Include
+283,Greenpoint Av (G),Morning,2,935199,128804.0,0.213858226965598,Include
+284,Nassau Av (G),Afternoon,3,771260,159286.0,0.388973886886394,Include
+284,Nassau Av (G),Evening,1,845282,159286.0,0.118303714026798,Include
+284,Nassau Av (G),Late Night,5,237162,159286.0,2.10826354980983,Include
+284,Nassau Av (G),Morning,1,793244,159286.0,0.126064615679413,Include
+286,Broadway (G),Afternoon,3,380436,88457.0,0.788568905150932,Include
+286,Broadway (G),Evening,2,323544,88457.0,0.618153945058477,Include
+286,Broadway (G),Late Night,1,79995,88457.0,1.25007812988312,Low Ridership
+286,Broadway (G),Morning,1,406657,88457.0,0.245907484686111,Include
+287,Flushing Av (G),Afternoon,1,279667,59158.0,0.35756810778533,Include
+287,Flushing Av (G),Evening,2,229916,59158.0,0.869882913759808,Include
+287,Flushing Av (G),Late Night,3,46031,59158.0,6.51734700527905,Low Ridership
+287,Flushing Av (G),Morning,1,199724,59158.0,0.500690953515852,Include
+288,Myrtle-Willoughby Avs (G),Afternoon,10,375461,90000.0,2.66339246952413,Include
+288,Myrtle-Willoughby Avs (G),Evening,9,266323,90000.0,3.37935514394175,Include
+288,Myrtle-Willoughby Avs (G),Late Night,2,63752,90000.0,3.13715648136529,Low Ridership
+288,Myrtle-Willoughby Avs (G),Morning,7,562654,90000.0,1.24410383646077,Include
+289,Bedford-Nostrand Avs (G),Afternoon,14,640054,141717.0,2.18731544525931,Include
+289,Bedford-Nostrand Avs (G),Evening,27,484127,141717.0,5.5770489974738,Include
+289,Bedford-Nostrand Avs (G),Late Night,9,115469,141717.0,7.79429976876911,Include
+289,Bedford-Nostrand Avs (G),Morning,5,1003312,141717.0,0.498349466566731,Include
+290,Classon Av (G),Afternoon,5,394884,160199.0,1.26619462930886,Include
+290,Classon Av (G),Evening,3,309360,160199.0,0.969743987587277,Include
+290,Classon Av (G),Late Night,4,62677,160199.0,6.38192638447916,Low Ridership
+290,Classon Av (G),Morning,0,574807,160199.0,0.0,Include
+291,Clinton-Washington Avs (G),Afternoon,0,451441,121235.0,0.0,Include
+291,Clinton-Washington Avs (G),Evening,0,414244,121235.0,0.0,Include
+291,Clinton-Washington Avs (G),Late Night,0,68677,121235.0,0.0,Low Ridership
+291,Clinton-Washington Avs (G),Morning,0,496135,121235.0,0.0,Include
+292,Fulton St (G),Afternoon,7,597193,136217.0,1.17215037684635,Include
+292,Fulton St (G),Evening,5,531241,136217.0,0.941192415495039,Include
+292,Fulton St (G),Late Night,4,133513,136217.0,2.99596293993843,Include
+292,Fulton St (G),Morning,1,354441,136217.0,0.28213440318699,Include
+293,Van Cortlandt Park-242 St (1),Afternoon,2,350174,70659.0,0.571144630954897,Include
+293,Van Cortlandt Park-242 St (1),Evening,5,214740,70659.0,2.32839713141473,Include
+293,Van Cortlandt Park-242 St (1),Late Night,10,119775,70659.0,8.34898768524316,Include
+293,Van Cortlandt Park-242 St (1),Morning,0,681840,70659.0,0.0,Include
+294,238 St (1),Afternoon,0,289579,13796.0,0.0,Include
+294,238 St (1),Evening,2,158938,13796.0,1.25835231348073,Include
+294,238 St (1),Late Night,1,79228,13796.0,1.26218003736053,Low Ridership
+294,238 St (1),Morning,2,517165,13796.0,0.386723772877128,Include
+295,231 St (1),Afternoon,0,585008,13796.0,0.0,Include
+295,231 St (1),Evening,1,345618,13796.0,0.289336782227777,Include
+295,231 St (1),Late Night,2,129517,13796.0,1.54419883104148,Include
+295,231 St (1),Morning,3,927258,13796.0,0.323534550254622,Include
+296,Marble Hill-225 St (1),Afternoon,2,323976,40438.0,0.617329678741635,Include
+296,Marble Hill-225 St (1),Evening,1,205746,40438.0,0.486036180533279,Include
+296,Marble Hill-225 St (1),Late Night,0,79061,40438.0,0.0,Low Ridership
+296,Marble Hill-225 St (1),Morning,0,478072,40438.0,0.0,Include
+297,215 St (1),Afternoon,1,196371,94208.0,0.509240162753156,Include
+297,215 St (1),Evening,1,113331,94208.0,0.882371107640451,Include
+297,215 St (1),Late Night,1,31534,94208.0,3.17118031331262,Low Ridership
+297,215 St (1),Morning,1,196392,94208.0,0.509185710212229,Include
+298,207 St (1),Afternoon,0,445340,34731.0,0.0,Include
+298,207 St (1),Evening,1,274708,34731.0,0.364022889759308,Include
+298,207 St (1),Late Night,7,114232,34731.0,6.12788010364871,Include
+298,207 St (1),Morning,1,552495,34731.0,0.180997113096046,Include
+299,Dyckman St (1),Afternoon,5,531295,64803.0,0.941096754157295,Include
+299,Dyckman St (1),Evening,6,312440,64803.0,1.92036871079247,Include
+299,Dyckman St (1),Late Night,6,125254,64803.0,4.79026617912402,Include
+299,Dyckman St (1),Morning,4,704540,64803.0,0.567746330939336,Include
+300,191 St (1),Afternoon,27,565171,58086.0,4.77731518425397,Include
+300,191 St (1),Evening,10,296545,58086.0,3.37216948523833,Include
+300,191 St (1),Late Night,16,124116,58086.0,12.8911663282736,Include
+300,191 St (1),Morning,25,762147,58086.0,3.28020709915541,Include
+301,181 St (1),Afternoon,10,812210,52389.0,1.23120867755876,Include
+301,181 St (1),Evening,10,487831,52389.0,2.04989022837827,Include
+301,181 St (1),Late Night,7,174567,52389.0,4.00992169195782,Include
+301,181 St (1),Morning,9,1013991,52389.0,0.887581842442389,Include
+303,157 St (1),Afternoon,6,771721,59500.0,0.777483054108933,Include
+303,157 St (1),Evening,3,448045,59500.0,0.669575600665112,Include
+303,157 St (1),Late Night,4,163087,59500.0,2.45267863165059,Include
+303,157 St (1),Morning,6,1035979,59500.0,0.579162318927314,Include
+304,145 St (1),Afternoon,31,670194,60346.0,4.62552634013435,Include
+304,145 St (1),Evening,24,438926,60346.0,5.46789208203661,Include
+304,145 St (1),Late Night,16,160318,60346.0,9.98016442320887,Include
+304,145 St (1),Morning,55,920024,60346.0,5.97810491900211,Include
+305,137 St-City College (1),Afternoon,16,908860,50668.0,1.76044715357701,Include
+305,137 St-City College (1),Evening,7,572010,50668.0,1.22375482946102,Include
+305,137 St-City College (1),Late Night,14,187187,50668.0,7.4791518641786,Include
+305,137 St-City College (1),Morning,9,1116424,50668.0,0.806145335463946,Include
+306,125 St (1),Afternoon,14,729147,65753.0,1.92005178653961,Include
+306,125 St (1),Evening,6,675437,65753.0,0.88831378796246,Include
+306,125 St (1),Late Night,10,124741,65753.0,8.01661041678357,Include
+306,125 St (1),Morning,2,585953,65753.0,0.34132430416774,Include
+307,116 St-Columbia University (1),Afternoon,5,1339832,196576.0,0.373181115244299,Include
+307,116 St-Columbia University (1),Evening,3,1330835,196576.0,0.225422385194258,Include
+307,116 St-Columbia University (1),Late Night,0,178681,196576.0,0.0,Include
+307,116 St-Columbia University (1),Morning,3,592870,196576.0,0.50601312260698,Include
+308,Cathedral Pkwy (110 St) (1),Afternoon,7,1080544,122103.0,0.647821837889063,Include
+308,Cathedral Pkwy (110 St) (1),Evening,7,913565,122103.0,0.766229003957026,Include
+308,Cathedral Pkwy (110 St) (1),Late Night,14,179270,122103.0,7.80944943381492,Include
+308,Cathedral Pkwy (110 St) (1),Morning,8,908087,122103.0,0.880972858327451,Include
+309,103 St (1),Afternoon,17,930600,142500.0,1.8267784225231,Include
+309,103 St (1),Evening,2,793558,142500.0,0.252029467285315,Include
+309,103 St (1),Late Night,2,155471,142500.0,1.28641354336178,Include
+309,103 St (1),Morning,11,1124683,142500.0,0.978053371483342,Include
+310,"96 St (1,2,3)",Afternoon,52,2885076,149367.0,1.80237886280985,Include
+310,"96 St (1,2,3)",Evening,33,2357933,149367.0,1.39953086029162,Include
+310,"96 St (1,2,3)",Late Night,43,474574,149367.0,9.0607576479116,Include
+310,"96 St (1,2,3)",Morning,20,3065328,149367.0,0.652458725461027,Include
+311,86 St (1),Afternoon,7,1476706,154118.0,0.474028005574569,Include
+311,86 St (1),Evening,3,1315441,154118.0,0.228060399516208,Include
+311,86 St (1),Late Night,6,284801,154118.0,2.10673417579292,Include
+311,86 St (1),Morning,19,1322858,154118.0,1.43628416655454,Include
+312,79 St (1),Afternoon,3,1348178,250000.0,0.222522545242542,Include
+312,79 St (1),Evening,4,1214432,250000.0,0.329372085057047,Include
+312,79 St (1),Late Night,3,217203,250000.0,1.38119639231502,Include
+312,79 St (1),Morning,4,1078135,250000.0,0.371011051491696,Include
+313,"72 St (1,2,3)",Afternoon,53,3304288,156830.0,1.60397640883603,Include
+313,"72 St (1,2,3)",Evening,40,3254159,156830.0,1.22919623779908,Include
+313,"72 St (1,2,3)",Late Night,51,755498,156830.0,6.75051423034872,Include
+313,"72 St (1,2,3)",Morning,26,2806735,156830.0,0.926343242236976,Include
+314,66 St-Lincoln Center (1),Afternoon,2,1838409,184896.0,0.108789719806637,Include
+314,66 St-Lincoln Center (1),Evening,10,1776512,184896.0,0.562900785359176,Include
+314,66 St-Lincoln Center (1),Late Night,10,498902,184896.0,2.00440166605866,Include
+314,66 St-Lincoln Center (1),Morning,4,988081,184896.0,0.404825110491954,Include
+316,50 St (1),Afternoon,17,1897595,136346.0,0.895870825966552,Include
+316,50 St (1),Evening,8,2714121,136346.0,0.294754729063295,Include
+316,50 St (1),Late Night,13,854495,136346.0,1.52136642110252,Include
+316,50 St (1),Morning,10,1026973,136346.0,0.973735434135075,Include
+318,"34 St-Penn Station (1,2,3)",Afternoon,114,4591151,108304.0,2.48303747796577,Include
+318,"34 St-Penn Station (1,2,3)",Evening,35,5138158,108304.0,0.681177962997635,Include
+318,"34 St-Penn Station (1,2,3)",Late Night,78,1796105,108304.0,4.34273051965225,Include
+318,"34 St-Penn Station (1,2,3)",Morning,29,6653259,108304.0,0.435876613250739,Include
+319,28 St (1),Afternoon,5,1034054,222321.0,0.483533741951581,Include
+319,28 St (1),Evening,9,1216058,222321.0,0.740096278302515,Include
+319,28 St (1),Late Night,3,261366,222321.0,1.14781570671013,Include
+319,28 St (1),Morning,8,787577,222321.0,1.01577369577832,Include
+320,23 St (1),Afternoon,2,1131675,160866.0,0.176729184615724,Include
+320,23 St (1),Evening,3,1241507,160866.0,0.241641811121484,Include
+320,23 St (1),Late Night,3,310579,160866.0,0.965937812923604,Include
+320,23 St (1),Morning,3,737555,160866.0,0.406749327168821,Include
+321,18 St (1),Afternoon,3,642985,134538.0,0.466573870308017,Include
+321,18 St (1),Evening,1,698902,134538.0,0.143081576530043,Include
+321,18 St (1),Late Night,3,142981,134538.0,2.09818087717949,Include
+321,18 St (1),Morning,1,368695,134538.0,0.271226894858894,Include
+323,Christopher St-Stonewall (1),Afternoon,6,1006582,175590.0,0.59607662366305,Include
+323,Christopher St-Stonewall (1),Evening,12,1171731,175590.0,1.02412584458378,Include
+323,Christopher St-Stonewall (1),Late Night,19,549966,175590.0,3.45475902146678,Include
+323,Christopher St-Stonewall (1),Morning,15,581990,175590.0,2.57736387223148,Include
+324,Houston St (1),Afternoon,3,1340423,250000.0,0.223809946561645,Include
+324,Houston St (1),Evening,2,1456005,250000.0,0.137362165651904,Include
+324,Houston St (1),Late Night,6,307726,250000.0,1.94978649837843,Include
+324,Houston St (1),Morning,1,485310,250000.0,0.206053862479652,Include
+325,Canal St (1),Afternoon,0,445408,250000.0,0.0,Include
+325,Canal St (1),Evening,1,569295,250000.0,0.175655855048788,Include
+325,Canal St (1),Late Night,1,111961,250000.0,0.893168156768875,Include
+325,Canal St (1),Morning,2,196953,250000.0,1.01547069605439,Include
+326,Franklin St (1),Afternoon,1,537383,250000.0,0.186087018011362,Include
+326,Franklin St (1),Evening,3,564594,250000.0,0.531355274763813,Include
+326,Franklin St (1),Late Night,5,94510,250000.0,5.29044545550735,Low Ridership
+326,Franklin St (1),Morning,0,299927,250000.0,0.0,Include
+327,"Chambers St (1,2,3)",Afternoon,6,1583536,250000.0,0.378898869365774,Include
+327,"Chambers St (1,2,3)",Evening,8,1700618,250000.0,0.470417224797103,Include
+327,"Chambers St (1,2,3)",Late Night,16,248466,250000.0,6.43951285085283,Include
+327,"Chambers St (1,2,3)",Morning,4,746890,250000.0,0.53555409765829,Include
+328,WTC Cortlandt (1),Afternoon,3,1565911,171923.0,0.191581769334273,Include
+328,WTC Cortlandt (1),Evening,2,1500258,171923.0,0.133310403943855,Include
+328,WTC Cortlandt (1),Late Night,4,166576,171923.0,2.40130631063298,Include
+328,WTC Cortlandt (1),Morning,2,1164829,171923.0,0.171699021916522,Include
+329,Rector St (1),Afternoon,1,655392,171923.0,0.152580440408183,Include
+329,Rector St (1),Evening,0,565723,171923.0,0.0,Include
+329,Rector St (1),Late Night,2,79171,171923.0,2.52617751449394,Low Ridership
+329,Rector St (1),Morning,0,564046,171923.0,0.0,Include
+333,"Wall St (2,3)",Afternoon,3,1556763,190388.0,0.192707560495721,Include
+333,"Wall St (2,3)",Evening,2,1815300,190388.0,0.110174626783452,Include
+333,"Wall St (2,3)",Late Night,1,249679,190388.0,0.400514260310238,Include
+333,"Wall St (2,3)",Morning,3,887014,190388.0,0.338213376564519,Include
+334,"Clark St (2,3)",Afternoon,4,536469,141364.0,0.745616242504227,Include
+334,"Clark St (2,3)",Evening,8,512324,141364.0,1.56151185577877,Include
+334,"Clark St (2,3)",Late Night,3,101252,141364.0,2.96290443645558,Include
+334,"Clark St (2,3)",Morning,4,574048,141364.0,0.696805842020179,Include
+336,"Hoyt St (2,3)",Afternoon,51,514114,138179.0,9.91997883737848,Include
+336,"Hoyt St (2,3)",Evening,27,483746,138179.0,5.58144150029148,Include
+336,"Hoyt St (2,3)",Late Night,6,85003,138179.0,7.05857440325636,Low Ridership
+336,"Hoyt St (2,3)",Morning,15,349820,138179.0,4.28791950145789,Include
+337,"Nevins St (2,3,4,5)",Afternoon,20,781913,181404.0,2.55782932372272,Include
+337,"Nevins St (2,3,4,5)",Evening,28,627843,181404.0,4.45971365452828,Include
+337,"Nevins St (2,3,4,5)",Late Night,13,169619,181404.0,7.66423572830874,Include
+337,"Nevins St (2,3,4,5)",Morning,41,686199,181404.0,5.97494312874254,Include
+339,"Bergen St (2,3)",Afternoon,3,303029,183510.0,0.990004257018305,Include
+339,"Bergen St (2,3)",Evening,4,288716,183510.0,1.3854445198742,Include
+339,"Bergen St (2,3)",Late Night,1,78548,183510.0,1.27310689005449,Low Ridership
+339,"Bergen St (2,3)",Morning,1,453608,183510.0,0.220454665702545,Include
+340,"Grand Army Plaza (2,3)",Afternoon,10,546388,201858.0,1.83020124892933,Include
+340,"Grand Army Plaza (2,3)",Evening,8,451296,201858.0,1.7726724810324,Include
+340,"Grand Army Plaza (2,3)",Late Night,28,66850,201858.0,41.8848167539267,Low Ridership
+340,"Grand Army Plaza (2,3)",Morning,12,700035,201858.0,1.7142000042855,Include
+341,"Eastern Pkwy-Brooklyn Museum (2,3)",Afternoon,6,425514,,1.4100593634992,Include
+341,"Eastern Pkwy-Brooklyn Museum (2,3)",Evening,4,313186,,1.27719629868513,Include
+341,"Eastern Pkwy-Brooklyn Museum (2,3)",Late Night,9,48061,,18.7262021181415,Low Ridership
+341,"Eastern Pkwy-Brooklyn Museum (2,3)",Morning,5,423379,,1.18097496569268,Include
+343,Nostrand Av (3),Afternoon,17,259044,90357.0,6.56259168326616,Include
+343,Nostrand Av (3),Evening,17,187183,90357.0,9.08202133740778,Include
+343,Nostrand Av (3),Late Night,4,58734,90357.0,6.81036537610243,Low Ridership
+343,Nostrand Av (3),Morning,14,318926,90357.0,4.3897330415206,Include
+344,Kingston Av (3),Afternoon,6,336153,87165.0,1.78490151805874,Include
+344,Kingston Av (3),Evening,5,213355,87165.0,2.34351198706381,Include
+344,Kingston Av (3),Late Night,5,58507,87165.0,8.5459859503991,Low Ridership
+344,Kingston Av (3),Morning,8,410359,87165.0,1.94951250003046,Include
+345,"Crown Hts-Utica Av (3,4)",Afternoon,126,1432956,70030.0,8.79301248607773,Include
+345,"Crown Hts-Utica Av (3,4)",Evening,91,871687,70030.0,10.4395270320654,Include
+345,"Crown Hts-Utica Av (3,4)",Late Night,34,386974,70030.0,8.78611999772595,Include
+345,"Crown Hts-Utica Av (3,4)",Morning,146,2731456,70030.0,5.34513460952693,Include
+346,Sutter Av-Rutland Rd (3),Afternoon,40,368077,20500.0,10.867291354798,Include
+346,Sutter Av-Rutland Rd (3),Evening,15,208824,20500.0,7.18308240432134,Include
+346,Sutter Av-Rutland Rd (3),Late Night,8,130993,20500.0,6.10719656775553,Include
+346,Sutter Av-Rutland Rd (3),Morning,21,686458,20500.0,3.05918206212179,Include
+347,Saratoga Av (3),Afternoon,2,257377,63125.0,0.777070212179021,Include
+347,Saratoga Av (3),Evening,10,137197,63125.0,7.28878911346458,Include
+347,Saratoga Av (3),Late Night,6,100715,63125.0,5.95740455741449,Include
+347,Saratoga Av (3),Morning,6,587904,63125.0,1.02057478772044,Include
+348,Rockaway Av (3),Afternoon,8,299866,44825.0,2.66785831004515,Include
+348,Rockaway Av (3),Evening,8,155728,44825.0,5.13716223158327,Include
+348,Rockaway Av (3),Late Night,4,82481,44825.0,4.84960172645821,Low Ridership
+348,Rockaway Av (3),Morning,8,467211,44825.0,1.71228845211264,Include
+349,Junius St (3),Afternoon,38,185581,22321.0,20.4762340972406,Include
+349,Junius St (3),Evening,31,112910,22321.0,27.4554955274112,Include
+349,Junius St (3),Late Night,17,40646,22321.0,41.8245337794617,Low Ridership
+349,Junius St (3),Morning,30,228175,22321.0,13.1478032212118,Include
+350,Pennsylvania Av (3),Afternoon,28,247538,52039.0,11.3113946141602,Include
+350,Pennsylvania Av (3),Evening,6,134039,52039.0,4.47630913390879,Include
+350,Pennsylvania Av (3),Late Night,3,73574,52039.0,4.07752738739229,Low Ridership
+350,Pennsylvania Av (3),Morning,3,354838,52039.0,0.845456236367018,Include
+351,Van Siclen Av (3),Afternoon,3,130555,65472.0,2.29788211864731,Include
+351,Van Siclen Av (3),Evening,2,70359,65472.0,2.84256456174761,Low Ridership
+351,Van Siclen Av (3),Late Night,4,47754,65472.0,8.37626167441471,Low Ridership
+351,Van Siclen Av (3),Morning,2,262919,65472.0,0.760690554885725,Include
+352,New Lots Av (3),Afternoon,42,294434,65472.0,14.2646569350007,Include
+352,New Lots Av (3),Evening,21,167297,65472.0,12.5525263453618,Include
+352,New Lots Av (3),Late Night,28,144076,65472.0,19.4341875121464,Include
+352,New Lots Av (3),Morning,52,558420,65472.0,9.31198739300168,Include
+353,"President St-Medgar Evers College (2,5)",Afternoon,6,249418,90357.0,2.40560023735256,Include
+353,"President St-Medgar Evers College (2,5)",Evening,8,153169,90357.0,5.22298898602198,Include
+353,"President St-Medgar Evers College (2,5)",Late Night,13,37481,90357.0,34.6842400149409,Low Ridership
+353,"President St-Medgar Evers College (2,5)",Morning,6,374484,90357.0,1.6022046335758,Include
+354,"Sterling St (2,5)",Afternoon,8,380708,92193.0,2.10134801475146,Include
+354,"Sterling St (2,5)",Evening,2,232619,92193.0,0.859774996883316,Include
+354,"Sterling St (2,5)",Late Night,3,64953,92193.0,4.61872430834604,Low Ridership
+354,"Sterling St (2,5)",Morning,2,637135,92193.0,0.313905216319932,Include
+355,"Winthrop St (2,5)",Afternoon,7,618279,58413.0,1.13217495661344,Include
+355,"Winthrop St (2,5)",Evening,9,374977,58413.0,2.40014720902882,Include
+355,"Winthrop St (2,5)",Late Night,4,82396,58413.0,4.85460459245594,Low Ridership
+355,"Winthrop St (2,5)",Morning,19,737313,58413.0,2.57692458969257,Include
+356,"Church Av (2,5)",Afternoon,56,591754,56250.0,9.46339188243763,Include
+356,"Church Av (2,5)",Evening,28,349692,56250.0,8.00704620065658,Include
+356,"Church Av (2,5)",Late Night,9,163150,56250.0,5.51639595464297,Include
+356,"Church Av (2,5)",Morning,15,1097859,56250.0,1.36629567184857,Include
+357,"Beverly Rd (2,5)",Afternoon,6,288887,72543.0,2.07693665689353,Include
+357,"Beverly Rd (2,5)",Evening,13,150063,72543.0,8.66302819482484,Include
+357,"Beverly Rd (2,5)",Late Night,9,84575,72543.0,10.6414425066509,Low Ridership
+357,"Beverly Rd (2,5)",Morning,5,550862,72543.0,0.907668345247993,Include
+358,"Newkirk Av-Little Haiti (2,5)",Afternoon,37,425087,83690.0,8.70410057235342,Include
+358,"Newkirk Av-Little Haiti (2,5)",Evening,25,229478,83690.0,10.8942905202242,Include
+358,"Newkirk Av-Little Haiti (2,5)",Late Night,8,138906,83690.0,5.75929045541589,Include
+358,"Newkirk Av-Little Haiti (2,5)",Morning,5,849505,83690.0,0.588578054278668,Include
+359,"Flatbush Av-Brooklyn College (2,5)",Afternoon,37,1151809,87614.0,3.21233815676037,Include
+359,"Flatbush Av-Brooklyn College (2,5)",Evening,46,700750,87614.0,6.5643952907599,Include
+359,"Flatbush Av-Brooklyn College (2,5)",Late Night,125,309185,87614.0,40.4288694470948,Include
+359,"Flatbush Av-Brooklyn College (2,5)",Morning,15,2006505,87614.0,0.747568533345294,Include
+360,Pelham Bay Park (6),Afternoon,2,327820,78155.0,0.610090903544628,Include
+360,Pelham Bay Park (6),Evening,9,232455,78155.0,3.87171710653675,Include
+360,Pelham Bay Park (6),Late Night,18,127402,78155.0,14.1285066168506,Include
+360,Pelham Bay Park (6),Morning,2,612903,78155.0,0.326315909695335,Include
+361,Buhre Av (6),Afternoon,0,174636,51042.0,0.0,Include
+361,Buhre Av (6),Evening,1,90723,51042.0,1.10225631868435,Low Ridership
+361,Buhre Av (6),Late Night,1,70853,51042.0,1.41137284236377,Low Ridership
+361,Buhre Av (6),Morning,1,454422,51042.0,0.220059768233052,Include
+362,Middletown Rd (6),Afternoon,2,100263,53969.0,1.99475379751254,Include
+362,Middletown Rd (6),Evening,3,45853,53969.0,6.54264715503893,Low Ridership
+362,Middletown Rd (6),Late Night,0,47594,53969.0,0.0,Low Ridership
+362,Middletown Rd (6),Morning,1,235059,53969.0,0.425425106037208,Include
+363,Westchester Sq-E Tremont Av (6),Afternoon,7,350881,46622.0,1.99497835448485,Include
+363,Westchester Sq-E Tremont Av (6),Evening,4,183812,46622.0,2.17613648728048,Include
+363,Westchester Sq-E Tremont Av (6),Late Night,6,83314,46622.0,7.20167078762273,Low Ridership
+363,Westchester Sq-E Tremont Av (6),Morning,3,375160,46622.0,0.799658812240111,Include
+364,Zerega Av (6),Afternoon,6,136349,47212.0,4.40047231736206,Include
+364,Zerega Av (6),Evening,3,69036,47212.0,4.34555883886668,Low Ridership
+364,Zerega Av (6),Late Night,2,49994,47212.0,4.00048005760691,Low Ridership
+364,Zerega Av (6),Morning,3,256143,47212.0,1.17122076340169,Include
+365,Castle Hill Av (6),Afternoon,5,318782,86701.0,1.56846998889523,Include
+365,Castle Hill Av (6),Evening,11,184039,86701.0,5.9769940067051,Include
+365,Castle Hill Av (6),Late Night,5,148225,86701.0,3.37325012649688,Include
+365,Castle Hill Av (6),Morning,2,650309,86701.0,0.307546105005467,Include
+366,Parkchester (6),Afternoon,18,703392,58244.0,2.5590282516719,Include
+366,Parkchester (6),Evening,14,319972,58244.0,4.37538284599902,Include
+366,Parkchester (6),Late Night,5,284426,58244.0,1.75792649054587,Include
+366,Parkchester (6),Morning,12,1525364,58244.0,0.786697470243168,Include
+367,St Lawrence Av (6),Afternoon,12,244371,40417.0,4.91056631105982,Include
+367,St Lawrence Av (6),Evening,3,98686,40417.0,3.03994487566625,Low Ridership
+367,St Lawrence Av (6),Late Night,3,106952,40417.0,2.80499663400404,Include
+367,St Lawrence Av (6),Morning,6,483811,40417.0,1.24015369638144,Include
+368,Morrison Av-Soundview (6),Afternoon,24,318950,35870.0,7.52469039034331,Include
+368,Morrison Av-Soundview (6),Evening,24,160792,35870.0,14.9261157271506,Include
+368,Morrison Av-Soundview (6),Late Night,12,166032,35870.0,7.22752240531946,Include
+368,Morrison Av-Soundview (6),Morning,21,691669,35870.0,3.03613433593236,Include
+369,Elder Av (6),Afternoon,52,358830,54884.0,14.4915419558008,Include
+369,Elder Av (6),Evening,28,166570,54884.0,16.8097496547998,Include
+369,Elder Av (6),Late Night,17,177982,54884.0,9.55152768257464,Include
+369,Elder Av (6),Morning,9,693497,54884.0,1.29777057435,Include
+370,Whitlock Av (6),Afternoon,3,105570,36435.0,2.84171639670361,Include
+370,Whitlock Av (6),Evening,6,55618,36435.0,10.7878744291416,Low Ridership
+370,Whitlock Av (6),Late Night,9,41296,36435.0,21.793878341728,Low Ridership
+370,Whitlock Av (6),Morning,2,189982,36435.0,1.05273131138739,Include
+371,Hunts Point Av (6),Afternoon,254,662798,44122.0,38.3223847989885,Include
+371,Hunts Point Av (6),Evening,137,373593,44122.0,36.6709226350601,Include
+371,Hunts Point Av (6),Late Night,50,222691,44122.0,22.452636164012,Include
+371,Hunts Point Av (6),Morning,86,985909,44122.0,8.72291458948037,Include
+372,Longwood Av (6),Afternoon,3,228903,41535.0,1.31059881259748,Include
+372,Longwood Av (6),Evening,2,121361,41535.0,1.64797587363321,Include
+372,Longwood Av (6),Late Night,4,52541,41535.0,7.61310214879808,Low Ridership
+372,Longwood Av (6),Morning,5,267876,41535.0,1.86653526258418,Include
+373,E 149 St (6),Afternoon,67,307536,48634.0,21.7860673221997,Include
+373,E 149 St (6),Evening,27,154785,48634.0,17.44355073166,Include
+373,E 149 St (6),Late Night,17,82912,48634.0,20.5036665380162,Low Ridership
+373,E 149 St (6),Morning,19,477753,48634.0,3.97695043254569,Include
+374,E 143 St-St Mary's St (6),Afternoon,0,173837,59297.0,0.0,Include
+374,E 143 St-St Mary's St (6),Evening,0,79589,59297.0,0.0,Low Ridership
+374,E 143 St-St Mary's St (6),Late Night,0,27499,59297.0,0.0,Low Ridership
+374,E 143 St-St Mary's St (6),Morning,0,137456,59297.0,0.0,Include
+375,Cypress Av (6),Afternoon,5,214933,30895.0,2.32630633732372,Include
+375,Cypress Av (6),Evening,11,117588,30895.0,9.35469605742083,Include
+375,Cypress Av (6),Late Night,4,38532,30895.0,10.3809820409011,Low Ridership
+375,Cypress Av (6),Morning,8,239774,30895.0,3.33647518079525,Include
+376,Brook Av (6),Afternoon,43,359499,25625.0,11.9610902951051,Include
+376,Brook Av (6),Evening,17,196466,25625.0,8.65289668441359,Include
+376,Brook Av (6),Late Night,22,84150,25625.0,26.1437908496732,Low Ridership
+376,Brook Av (6),Morning,32,458933,25625.0,6.97269536076072,Include
+377,3 Av-138 St (6),Afternoon,35,566996,16332.0,6.1728830538487,Include
+377,3 Av-138 St (6),Evening,17,320031,16332.0,5.31198540141424,Include
+377,3 Av-138 St (6),Late Night,28,151640,16332.0,18.4647850171459,Include
+377,3 Av-138 St (6),Morning,38,799919,16332.0,4.75048098619985,Include
+378,Woodlawn (4),Afternoon,9,336685,40089.0,2.6731217606962,Include
+378,Woodlawn (4),Evening,7,258735,40089.0,2.70547084855161,Include
+378,Woodlawn (4),Late Night,22,175927,40089.0,12.5051868104384,Include
+378,Woodlawn (4),Morning,21,654981,40089.0,3.20619987450018,Include
+379,Mosholu Pkwy (4),Afternoon,9,452763,52824.0,1.98779493907409,Include
+379,Mosholu Pkwy (4),Evening,3,278511,52824.0,1.07715673707681,Include
+379,Mosholu Pkwy (4),Late Night,7,149893,52824.0,4.66999793185806,Include
+379,Mosholu Pkwy (4),Morning,5,612904,52824.0,0.815788443214598,Include
+380,Bedford Park Blvd-Lehman College (4),Afternoon,1,384485,67793.0,0.260088169889593,Include
+380,Bedford Park Blvd-Lehman College (4),Evening,2,209144,67793.0,0.956278927437555,Include
+380,Bedford Park Blvd-Lehman College (4),Late Night,5,110604,67793.0,4.52063216520198,Include
+380,Bedford Park Blvd-Lehman College (4),Morning,6,413221,67793.0,1.45200752139896,Include
+381,Kingsbridge Rd (4),Afternoon,28,571765,36913.0,4.89711682247077,Include
+381,Kingsbridge Rd (4),Evening,18,282377,36913.0,6.37445684315649,Include
+381,Kingsbridge Rd (4),Late Night,6,176881,36913.0,3.39211108033084,Include
+381,Kingsbridge Rd (4),Morning,14,857186,36913.0,1.63325112635997,Include
+382,Fordham Rd (4),Afternoon,26,621024,28649.0,4.18663368887515,Include
+382,Fordham Rd (4),Evening,23,357539,28649.0,6.4328646665119,Include
+382,Fordham Rd (4),Late Night,8,207788,28649.0,3.85007796407877,Include
+382,Fordham Rd (4),Morning,8,895404,28649.0,0.893451447614708,Include
+383,183 St (4),Afternoon,24,315499,37543.0,7.60699716956314,Include
+383,183 St (4),Evening,19,171350,37543.0,11.0884155237817,Include
+383,183 St (4),Late Night,16,135189,37543.0,11.8352824564129,Include
+383,183 St (4),Morning,17,564391,37543.0,3.01209622407161,Include
+384,Burnside Av (4),Afternoon,54,597140,30446.0,9.04310546940416,Include
+384,Burnside Av (4),Evening,28,319456,30446.0,8.76490033056196,Include
+384,Burnside Av (4),Late Night,39,197210,30446.0,19.77587343441,Include
+384,Burnside Av (4),Morning,37,858432,30446.0,4.31018414970551,Include
+385,176 St (4),Afternoon,13,360299,36195.0,3.60811437167464,Include
+385,176 St (4),Evening,14,186112,36195.0,7.52235213204952,Include
+385,176 St (4),Late Night,7,115736,36195.0,6.04824773622728,Include
+385,176 St (4),Morning,14,554898,36195.0,2.52298620647398,Include
+386,Mt Eden Av (4),Afternoon,9,294697,34145.0,3.0539842618011,Include
+386,Mt Eden Av (4),Evening,5,162757,34145.0,3.07206448877775,Include
+386,Mt Eden Av (4),Late Night,2,101252,34145.0,1.97526962430372,Include
+386,Mt Eden Av (4),Morning,13,449678,34145.0,2.89095752961008,Include
+387,170 St (4),Afternoon,46,489421,52176.0,9.39886110322197,Include
+387,170 St (4),Evening,20,274181,52176.0,7.29445147548517,Include
+387,170 St (4),Late Night,35,152230,52176.0,22.9915259804244,Include
+387,170 St (4),Morning,28,703468,52176.0,3.98028055291783,Include
+388,167 St (4),Afternoon,12,529957,25439.0,2.26433465356623,Include
+388,167 St (4),Evening,15,284309,25439.0,5.2759497588891,Include
+388,167 St (4),Late Night,9,216682,25439.0,4.15355221015128,Include
+388,167 St (4),Morning,10,929496,25439.0,1.07585185950235,Include
+391,"138 St-Grand Concourse (4,5)",Afternoon,48,319668,25851.0,15.0155786628627,Include
+391,"138 St-Grand Concourse (4,5)",Evening,12,200576,25851.0,5.98276962348436,Include
+391,"138 St-Grand Concourse (4,5)",Late Night,7,93985,25851.0,7.44799702080119,Low Ridership
+391,"138 St-Grand Concourse (4,5)",Morning,10,334887,25851.0,2.98608187239278,Include
+392,"125 St (4,5,6)",Afternoon,127,1949311,28069.0,6.51512252277856,Include
+392,"125 St (4,5,6)",Evening,75,1481885,28069.0,5.06112147703769,Include
+392,"125 St (4,5,6)",Late Night,39,440109,28069.0,8.86144114298958,Include
+392,"125 St (4,5,6)",Morning,72,2041128,28069.0,3.52746128611239,Include
+393,116 St (6),Afternoon,28,1120749,38942.0,2.4983292423192,Include
+393,116 St (6),Evening,34,693026,38942.0,4.90602084193089,Include
+393,116 St (6),Late Night,11,180751,38942.0,6.08572013432844,Include
+393,116 St (6),Morning,20,1145870,38942.0,1.74539869269638,Include
+394,110 St (6),Afternoon,11,837974,34024.0,1.3126898925265,Include
+394,110 St (6),Evening,11,484196,34024.0,2.27180728465332,Include
+394,110 St (6),Late Night,5,118515,34024.0,4.21887524785892,Include
+394,110 St (6),Morning,2,995219,34024.0,0.200960793553982,Include
+395,103 St (6),Afternoon,10,1125818,50231.0,0.888243037506951,Include
+395,103 St (6),Evening,12,710161,50231.0,1.68975767466814,Include
+395,103 St (6),Late Night,7,142002,50231.0,4.9295080350981,Include
+395,103 St (6),Morning,5,937465,50231.0,0.53335324518782,Include
+396,96 St (6),Afternoon,7,1578905,177750.0,0.443345229763665,Include
+396,96 St (6),Evening,2,1123678,177750.0,0.177986932199438,Include
+396,96 St (6),Late Night,3,160763,177750.0,1.8661010307098,Include
+396,96 St (6),Morning,4,1155807,177750.0,0.346078540794441,Include
+397,"86 St (4,5,6)",Afternoon,45,4202982,202670.0,1.0706683968668,Include
+397,"86 St (4,5,6)",Evening,36,3618134,202670.0,0.994988024213586,Include
+397,"86 St (4,5,6)",Late Night,10,595763,202670.0,1.67851981408715,Include
+397,"86 St (4,5,6)",Morning,20,2826504,202670.0,0.707587889491754,Include
+398,77 St (6),Afternoon,10,2643413,220256.0,0.378298812936155,Include
+398,77 St (6),Evening,3,2028046,220256.0,0.147925638767562,Include
+398,77 St (6),Late Night,1,331018,220256.0,0.302098375314938,Include
+398,77 St (6),Morning,4,1599651,220256.0,0.250054543147224,Include
+399,68 St-Hunter College (6),Afternoon,9,2318795,192644.0,0.388132629231993,Include
+399,68 St-Hunter College (6),Evening,7,1890434,192644.0,0.370285341884456,Include
+399,68 St-Hunter College (6),Late Night,4,192034,192644.0,2.08296447504088,Include
+399,68 St-Hunter College (6),Morning,11,989037,192644.0,1.11219297154707,Include
+403,33 St (6),Afternoon,15,2209011,215511.0,0.679036908372118,Include
+403,33 St (6),Evening,10,2237036,215511.0,0.447020074777518,Include
+403,33 St (6),Late Night,5,429284,215511.0,1.1647301087392,Include
+403,33 St (6),Morning,30,1566161,215511.0,1.91551187904692,Include
+404,28 St (6),Afternoon,29,1593476,128919.0,1.81992072676338,Include
+404,28 St (6),Evening,20,1669875,128919.0,1.19769443820645,Include
+404,28 St (6),Late Night,7,416396,128919.0,1.68109203738749,Include
+404,28 St (6),Morning,75,1104457,128919.0,6.79066726907431,Include
+405,23 St-Baruch College (6),Afternoon,7,2213258,128919.0,0.316275825050672,Include
+405,23 St-Baruch College (6),Evening,9,2100911,128919.0,0.428385590822267,Include
+405,23 St-Baruch College (6),Late Night,6,370201,128919.0,1.62074116493472,Include
+405,23 St-Baruch College (6),Morning,6,1386794,128919.0,0.432652578537259,Include
+407,Astor Pl (6),Afternoon,2,1248400,201116.0,0.160205062479974,Include
+407,Astor Pl (6),Evening,1,1440027,201116.0,0.0694431423855247,Include
+407,Astor Pl (6),Late Night,7,485947,201116.0,1.44048630817764,Include
+407,Astor Pl (6),Morning,2,925037,201116.0,0.2162075679135,Include
+409,Spring St (6),Afternoon,1,1223332,170714.0,0.0817439583040417,Include
+409,Spring St (6),Evening,0,1313151,170714.0,0.0,Include
+409,Spring St (6),Late Night,1,287901,170714.0,0.347341620904408,Include
+409,Spring St (6),Morning,3,507743,170714.0,0.59085009542229,Include
+413,"Wall St (4,5)",Afternoon,3,1330700,190388.0,0.225445254377395,Include
+413,"Wall St (4,5)",Evening,0,1406996,190388.0,0.0,Include
+413,"Wall St (4,5)",Late Night,3,184422,190388.0,1.6267039724111,Include
+413,"Wall St (4,5)",Morning,1,912013,190388.0,0.109647559848379,Include
+414,"Bowling Green (4,5)",Afternoon,8,2090800,171923.0,0.382628658886551,Include
+414,"Bowling Green (4,5)",Evening,9,1643772,171923.0,0.547521189070017,Include
+414,"Bowling Green (4,5)",Late Night,8,246263,171923.0,3.24855946691139,Include
+414,"Bowling Green (4,5)",Morning,6,1277089,171923.0,0.46981846997351,Include
+416,Wakefield-241 St (2),Afternoon,5,232623,76036.0,2.14940053219157,Include
+416,Wakefield-241 St (2),Evening,4,170422,76036.0,2.34711480912089,Include
+416,Wakefield-241 St (2),Late Night,14,129623,76036.0,10.800552371107,Include
+416,Wakefield-241 St (2),Morning,4,392412,76036.0,1.01933681946526,Include
+417,"Nereid Av (2,5)",Afternoon,9,139202,62567.0,6.46542434735133,Include
+417,"Nereid Av (2,5)",Evening,4,95091,62567.0,4.20649693451536,Low Ridership
+417,"Nereid Av (2,5)",Late Night,3,54687,62567.0,5.48576444127489,Low Ridership
+417,"Nereid Av (2,5)",Morning,1,290661,62567.0,0.344043404515914,Include
+418,"233 St (2,5)",Afternoon,7,213282,75201.0,3.28203974081263,Include
+418,"233 St (2,5)",Evening,6,135275,75201.0,4.43540935132138,Include
+418,"233 St (2,5)",Late Night,5,87142,75201.0,5.73776135502972,Low Ridership
+418,"233 St (2,5)",Morning,1,363788,75201.0,0.274885372799543,Include
+419,"225 St (2,5)",Afternoon,1,162476,41555.0,0.615475516383958,Include
+419,"225 St (2,5)",Evening,1,92117,41555.0,1.0855759523215,Low Ridership
+419,"225 St (2,5)",Late Night,1,69639,41555.0,1.43597696692945,Low Ridership
+419,"225 St (2,5)",Morning,1,315848,41555.0,0.31660798865277,Include
+420,"219 St (2,5)",Afternoon,8,139925,67917.0,5.71734857959621,Include
+420,"219 St (2,5)",Evening,6,82278,67917.0,7.29235032450959,Low Ridership
+420,"219 St (2,5)",Late Night,2,53030,67917.0,3.77145012257213,Low Ridership
+420,"219 St (2,5)",Morning,4,282593,67917.0,1.41546322803466,Include
+421,"Gun Hill Rd (2,5)",Afternoon,88,383634,65964.0,22.9385299530281,Include
+421,"Gun Hill Rd (2,5)",Evening,42,238921,65964.0,17.5790323998309,Include
+421,"Gun Hill Rd (2,5)",Late Night,23,140885,65964.0,16.3253717571069,Include
+421,"Gun Hill Rd (2,5)",Morning,50,535852,65964.0,9.33093466106313,Include
+422,"Burke Av (2,5)",Afternoon,7,137439,70475.0,5.09316860570871,Include
+422,"Burke Av (2,5)",Evening,4,72471,70475.0,5.51944915897393,Low Ridership
+422,"Burke Av (2,5)",Late Night,0,53696,70475.0,0.0,Low Ridership
+422,"Burke Av (2,5)",Morning,0,274588,70475.0,0.0,Include
+423,"Allerton Av (2,5)",Afternoon,10,236279,72725.0,4.2322847142573,Include
+423,"Allerton Av (2,5)",Evening,5,143130,72725.0,3.49332774400894,Include
+423,"Allerton Av (2,5)",Late Night,4,84423,72725.0,4.73804531940348,Low Ridership
+423,"Allerton Av (2,5)",Morning,4,427512,72725.0,0.935646250865473,Include
+424,"Pelham Pkwy (2,5)",Afternoon,8,452526,72143.0,1.76785422274079,Include
+424,"Pelham Pkwy (2,5)",Evening,6,304222,72143.0,1.97224395342875,Include
+424,"Pelham Pkwy (2,5)",Late Night,4,146038,72143.0,2.73901313356798,Include
+424,"Pelham Pkwy (2,5)",Morning,7,676773,72143.0,1.03432022258571,Include
+425,"Bronx Park East (2,5)",Afternoon,12,130605,23910.0,9.18800964741013,Include
+425,"Bronx Park East (2,5)",Evening,9,68322,23910.0,13.1729164837095,Low Ridership
+425,"Bronx Park East (2,5)",Late Night,4,46892,23910.0,8.53023969973556,Low Ridership
+425,"Bronx Park East (2,5)",Morning,20,255169,23910.0,7.83794269680094,Include
+426,"E 180 St (2,5)",Afternoon,69,494018,23910.0,13.9671024132724,Include
+426,"E 180 St (2,5)",Evening,74,275935,23910.0,26.8179100150398,Include
+426,"E 180 St (2,5)",Late Night,67,224628,23910.0,29.8270919030575,Include
+426,"E 180 St (2,5)",Morning,88,903604,23910.0,9.73877937680665,Include
+427,"West Farms Sq-E Tremont Av (2,5)",Afternoon,11,424691,29250.0,2.59011846259987,Include
+427,"West Farms Sq-E Tremont Av (2,5)",Evening,15,220185,29250.0,6.81245316438449,Include
+427,"West Farms Sq-E Tremont Av (2,5)",Late Night,9,103737,29250.0,8.67578588160444,Include
+427,"West Farms Sq-E Tremont Av (2,5)",Morning,8,481474,29250.0,1.66156427969112,Include
+428,"174 St (2,5)",Afternoon,83,434631,23210.0,19.096659004995,Include
+428,"174 St (2,5)",Evening,55,223131,23210.0,24.6491971084251,Include
+428,"174 St (2,5)",Late Night,9,111709,23210.0,8.05664718151626,Include
+428,"174 St (2,5)",Morning,31,570862,23210.0,5.43038422596004,Include
+429,"Freeman St (2,5)",Afternoon,6,281183,55772.0,2.13384166183589,Include
+429,"Freeman St (2,5)",Evening,4,136333,55772.0,2.93399250364915,Include
+429,"Freeman St (2,5)",Late Night,1,89377,55772.0,1.11885608154223,Low Ridership
+429,"Freeman St (2,5)",Morning,1,433354,55772.0,0.230758225376944,Include
+430,"Simpson St (2,5)",Afternoon,76,566634,25686.0,13.4125378992436,Include
+430,"Simpson St (2,5)",Evening,41,325103,25686.0,12.6113877755665,Include
+430,"Simpson St (2,5)",Late Night,21,127456,25686.0,16.4762741652021,Include
+430,"Simpson St (2,5)",Morning,33,674259,25686.0,4.89426170062246,Include
+431,"Intervale Av (2,5)",Afternoon,14,230805,40188.0,6.06572647906241,Include
+431,"Intervale Av (2,5)",Evening,5,108255,40188.0,4.61872430834604,Include
+431,"Intervale Av (2,5)",Late Night,0,57634,40188.0,0.0,Low Ridership
+431,"Intervale Av (2,5)",Morning,7,279392,40188.0,2.50544038483564,Include
+432,"Prospect Av (2,5)",Afternoon,22,432246,43081.0,5.0896942944527,Include
+432,"Prospect Av (2,5)",Evening,14,226329,43081.0,6.18568544022198,Include
+432,"Prospect Av (2,5)",Late Night,15,111609,43081.0,13.4397763621213,Include
+432,"Prospect Av (2,5)",Morning,33,556663,43081.0,5.92818276048525,Include
+433,"Jackson Av (2,5)",Afternoon,16,380683,34259.0,4.20297202659431,Include
+433,"Jackson Av (2,5)",Evening,20,172616,34259.0,11.5864114566436,Include
+433,"Jackson Av (2,5)",Late Night,5,82860,34259.0,6.03427468018344,Low Ridership
+433,"Jackson Av (2,5)",Morning,15,471083,34259.0,3.18415226191563,Include
+434,"3 Av-149 St (2,5)",Afternoon,647,1486153,22740.0,43.535221474505,Include
+434,"3 Av-149 St (2,5)",Evening,167,852701,22740.0,19.5848251614575,Include
+434,"3 Av-149 St (2,5)",Late Night,38,302158,22740.0,12.5762018546588,Include
+434,"3 Av-149 St (2,5)",Morning,183,1684651,22740.0,10.8627840425109,Include
+436,Harlem-148 St (3),Afternoon,4,212717,43679.0,1.88043268756141,Include
+436,Harlem-148 St (3),Evening,3,109872,43679.0,2.7304499781564,Include
+436,Harlem-148 St (3),Late Night,12,42832,43679.0,28.0164363093015,Low Ridership
+436,Harlem-148 St (3),Morning,1,341737,43679.0,0.292622689378089,Include
+437,145 St (3),Afternoon,6,211079,27967.0,2.84253762809185,Include
+437,145 St (3),Evening,2,118985,27967.0,1.6808841450603,Include
+437,145 St (3),Late Night,7,37459,27967.0,18.6870978936971,Low Ridership
+437,145 St (3),Morning,9,322767,27967.0,2.78838914758944,Include
+438,"135 St (2,3)",Afternoon,62,916447,63413.0,6.76525756535839,Include
+438,"135 St (2,3)",Evening,33,586128,63413.0,5.63016951928589,Include
+438,"135 St (2,3)",Late Night,54,186856,63413.0,28.899259322687,Include
+438,"135 St (2,3)",Morning,31,1003682,63413.0,3.08862767290835,Include
+439,"125 St (2,3)",Afternoon,49,1235544,84071.0,3.9658644289479,Include
+439,"125 St (2,3)",Evening,26,973129,84071.0,2.67179377040454,Include
+439,"125 St (2,3)",Late Night,34,203544,84071.0,16.7040050308533,Include
+439,"125 St (2,3)",Morning,23,955958,84071.0,2.40596344190854,Include
+440,"116 St (2,3)",Afternoon,29,733607,121438.0,3.95307024060567,Include
+440,"116 St (2,3)",Evening,18,532361,121438.0,3.38116428513734,Include
+440,"116 St (2,3)",Late Night,15,137580,121438.0,10.9027474923681,Include
+440,"116 St (2,3)",Morning,8,880681,121438.0,0.908387940695893,Include
+441,"110 St-Malcolm X Plaza (2,3)",Afternoon,36,594384,50862.0,6.05669062424291,Include
+441,"110 St-Malcolm X Plaza (2,3)",Evening,33,398188,50862.0,8.28754256783228,Include
+441,"110 St-Malcolm X Plaza (2,3)",Late Night,27,104604,50862.0,25.811632442354,Include
+441,"110 St-Malcolm X Plaza (2,3)",Morning,19,683608,50862.0,2.77937063346245,Include
+442,Eastchester-Dyre Av (5),Afternoon,3,194787,88862.0,1.54014384943554,Include
+442,Eastchester-Dyre Av (5),Evening,1,121945,88862.0,0.820041822132929,Include
+442,Eastchester-Dyre Av (5),Late Night,13,80838,88862.0,16.0815458076647,Low Ridership
+442,Eastchester-Dyre Av (5),Morning,1,421815,88862.0,0.237070753766462,Include
+443,Baychester Av (5),Afternoon,20,159097,87061.0,12.5709472837326,Include
+443,Baychester Av (5),Evening,1,71694,87061.0,1.39481686054621,Low Ridership
+443,Baychester Av (5),Late Night,4,42717,87061.0,9.3639534611513,Low Ridership
+443,Baychester Av (5),Morning,1,283110,87061.0,0.353219596623221,Include
+444,Gun Hill Rd (5),Afternoon,15,207605,72778.0,7.2252595072373,Include
+444,Gun Hill Rd (5),Evening,6,111013,72778.0,5.4047724140416,Include
+444,Gun Hill Rd (5),Late Night,2,80129,72778.0,2.49597523992562,Low Ridership
+444,Gun Hill Rd (5),Morning,3,463698,72778.0,0.646972814202347,Include
+445,Pelham Pkwy (5),Afternoon,1,166694,89323.0,0.599901616134954,Include
+445,Pelham Pkwy (5),Evening,2,76316,89323.0,2.62068242570365,Low Ridership
+445,Pelham Pkwy (5),Late Night,0,45979,89323.0,0.0,Low Ridership
+445,Pelham Pkwy (5),Morning,1,328174,89323.0,0.304716400446105,Include
+446,Morris Park (5),Afternoon,2,130665,61210.0,1.53063176826235,Include
+446,Morris Park (5),Evening,0,49520,61210.0,0.0,Low Ridership
+446,Morris Park (5),Late Night,2,41752,61210.0,4.79018969151178,Low Ridership
+446,Morris Park (5),Morning,0,336574,61210.0,0.0,Include
+447,Flushing-Main St (7),Afternoon,28,4153878,52250.0,0.67406890621246,Include
+447,Flushing-Main St (7),Evening,46,3470772,52250.0,1.32535355246614,Include
+447,Flushing-Main St (7),Late Night,148,1213251,52250.0,12.1986299619782,Include
+447,Flushing-Main St (7),Morning,24,6175650,52250.0,0.388623059920818,Include
+448,Mets-Willets Point (7),Afternoon,7,610344,,1.14689421047803,Include
+448,Mets-Willets Point (7),Evening,7,945535,,0.740321616862411,Include
+448,Mets-Willets Point (7),Late Night,18,677639,,2.65628158945987,Include
+448,Mets-Willets Point (7),Morning,2,277323,,0.721180717069987,Include
+449,111 St (7),Afternoon,4,733748,75660.0,0.545146290006923,Include
+449,111 St (7),Evening,3,439135,75660.0,0.68316121466064,Include
+449,111 St (7),Late Night,4,414675,75660.0,0.964610839814312,Include
+449,111 St (7),Morning,10,1859095,75660.0,0.537896126878938,Include
+450,103 St-Corona Plaza (7),Afternoon,15,1298826,102682.0,1.15488910754789,Include
+450,103 St-Corona Plaza (7),Evening,8,729376,102682.0,1.09682797350064,Include
+450,103 St-Corona Plaza (7),Late Night,12,663086,102682.0,1.80972000615305,Include
+450,103 St-Corona Plaza (7),Morning,26,2877958,102682.0,0.903418326466196,Include
+451,Junction Blvd (7),Afternoon,12,1692871,94125.0,0.70885495705225,Include
+451,Junction Blvd (7),Evening,8,974297,94125.0,0.821104858169531,Include
+451,Junction Blvd (7),Late Night,35,688820,94125.0,5.08115327661798,Include
+451,Junction Blvd (7),Morning,5,3375279,94125.0,0.148135902246896,Include
+452,90 St-Elmhurst Av (7),Afternoon,4,1246766,67602.0,0.320830051509265,Include
+452,90 St-Elmhurst Av (7),Evening,6,738144,67602.0,0.812849525295877,Include
+452,90 St-Elmhurst Av (7),Late Night,11,439325,67602.0,2.50384111989985,Include
+452,90 St-Elmhurst Av (7),Morning,4,2303194,67602.0,0.173671866112885,Include
+453,82 St-Jackson Hts (7),Afternoon,6,1211144,79340.0,0.495399390989015,Include
+453,82 St-Jackson Hts (7),Evening,7,826625,79340.0,0.846816875850597,Include
+453,82 St-Jackson Hts (7),Late Night,19,262078,79340.0,7.24975007440533,Include
+453,82 St-Jackson Hts (7),Morning,4,1368350,79340.0,0.292322870610589,Include
+455,69 St (7),Afternoon,4,304095,87232.0,1.31537841792861,Include
+455,69 St (7),Evening,0,219874,87232.0,0.0,Include
+455,69 St (7),Late Night,4,72790,87232.0,5.49526033795851,Low Ridership
+455,69 St (7),Morning,4,556218,87232.0,0.719142494489571,Include
+456,61 St-Woodside (7),Afternoon,2,1065595,79419.0,0.187688568358523,Include
+456,61 St-Woodside (7),Evening,4,772035,79419.0,0.51811122552734,Include
+456,61 St-Woodside (7),Late Night,11,295719,79419.0,3.71974746296315,Include
+456,61 St-Woodside (7),Morning,1,2037791,79419.0,0.049072745929293,Include
+457,52 St (7),Afternoon,2,334996,66393.0,0.597022053994675,Include
+457,52 St (7),Evening,0,205490,66393.0,0.0,Include
+457,52 St (7),Late Night,2,74934,66393.0,2.66901540021886,Low Ridership
+457,52 St (7),Morning,3,638519,66393.0,0.469837232721344,Include
+458,46 St-Bliss St (7),Afternoon,5,1001228,70664.0,0.499386753067233,Include
+458,46 St-Bliss St (7),Evening,8,627193,70664.0,1.27552443984547,Include
+458,46 St-Bliss St (7),Late Night,6,221468,70664.0,2.70919500785667,Include
+458,46 St-Bliss St (7),Morning,3,1609961,70664.0,0.186339917550798,Include
+459,40 St-Lowery St (7),Afternoon,7,787145,78864.0,0.889289775073208,Include
+459,40 St-Lowery St (7),Evening,2,475764,78864.0,0.420376489183713,Include
+459,40 St-Lowery St (7),Late Night,3,129552,78864.0,2.31567247128566,Include
+459,40 St-Lowery St (7),Morning,2,1082026,78864.0,0.184838441959805,Include
+460,33 St-Rawson St (7),Afternoon,9,1177327,,0.764443523337187,Include
+460,33 St-Rawson St (7),Evening,3,628605,,0.47724723793161,Include
+460,33 St-Rawson St (7),Late Night,6,99429,,6.03445674803126,Low Ridership
+460,33 St-Rawson St (7),Morning,7,334073,,2.09535041742374,Include
+461,"Queensboro Plaza (7,N,W)",Afternoon,12,1152288,171458.0,1.04140631508789,Include
+461,"Queensboro Plaza (7,N,W)",Evening,23,917640,171458.0,2.50642953663746,Include
+461,"Queensboro Plaza (7,N,W)",Late Night,63,274194,171458.0,22.976432744699,Include
+461,"Queensboro Plaza (7,N,W)",Morning,8,1218654,171458.0,0.656461965414301,Include
+463,Hunters Point Av (7),Afternoon,9,430390,,2.09112665257092,Include
+463,Hunters Point Av (7),Evening,5,265016,,1.88667854016361,Include
+463,Hunters Point Av (7),Late Night,4,69214,,5.77917762302424,Low Ridership
+463,Hunters Point Av (7),Morning,0,311751,,0.0,Include
+464,Vernon Blvd-Jackson Av (7),Afternoon,3,1125656,136875.0,0.266511260989148,Include
+464,Vernon Blvd-Jackson Av (7),Evening,5,982627,136875.0,0.50884007868703,Include
+464,Vernon Blvd-Jackson Av (7),Late Night,11,237291,136875.0,4.63565832669591,Include
+464,Vernon Blvd-Jackson Av (7),Morning,4,1962679,136875.0,0.203803067134259,Include
+471,34 St-Hudson Yards (7),Afternoon,13,2388453,187596.0,0.544285359603057,Include
+471,34 St-Hudson Yards (7),Evening,9,3001228,187596.0,0.299877250245566,Include
+471,34 St-Hudson Yards (7),Late Night,54,498881,187596.0,10.8242246146877,Include
+471,34 St-Hudson Yards (7),Morning,15,864262,187596.0,1.73558481108738,Include
+475,96 St (Q),Afternoon,13,1423418,75147.0,0.913294619008612,Include
+475,96 St (Q),Evening,4,1044104,75147.0,0.383103598875208,Include
+475,96 St (Q),Late Night,39,219134,75147.0,17.7973294878933,Include
+475,96 St (Q),Morning,5,1824930,75147.0,0.273983111680996,Include
+476,86 St (Q),Afternoon,1,1858668,139000.0,0.053801970012934,Include
+476,86 St (Q),Evening,4,1825014,139000.0,0.219176400838569,Include
+476,86 St (Q),Late Night,6,310413,139000.0,1.93290873771395,Include
+476,86 St (Q),Morning,2,2423838,139000.0,0.082513765358906,Include
+477,72 St (Q),Afternoon,1,2616949,232600.0,0.0382124374605695,Include
+477,72 St (Q),Evening,4,2606285,232600.0,0.153475157168153,Include
+477,72 St (Q),Late Night,5,347414,232600.0,1.43920509824014,Include
+477,72 St (Q),Morning,2,2043181,232600.0,0.0978865797988529,Include
+601,"14 St/6 Av (1,2,3,L,F,M)",Afternoon,74,3794094,134538.0,1.95039975287908,Include
+601,"14 St/6 Av (1,2,3,L,F,M)",Evening,45,4376967,134538.0,1.0281091906793,Include
+601,"14 St/6 Av (1,2,3,L,F,M)",Late Night,80,1153300,134538.0,6.93661666522154,Include
+601,"14 St/6 Av (1,2,3,L,F,M)",Morning,46,2189282,134538.0,2.1011454897085,Include
+602,"14 St-Union Sq (4,5,6,L,N,Q,R,W)",Afternoon,218,8541881,238750.0,2.55213108213519,Include
+602,"14 St-Union Sq (4,5,6,L,N,Q,R,W)",Evening,131,9727652,238750.0,1.34667646416628,Include
+602,"14 St-Union Sq (4,5,6,L,N,Q,R,W)",Late Night,95,2446821,238750.0,3.88258887756808,Include
+602,"14 St-Union Sq (4,5,6,L,N,Q,R,W)",Morning,110,3811278,238750.0,2.88617099041319,Include
+603,"149 St-Grand Concourse (2,4,5)",Afternoon,65,961602,25851.0,6.75955332871604,Include
+603,"149 St-Grand Concourse (2,4,5)",Evening,56,582763,25851.0,9.60939524300616,Include
+603,"149 St-Grand Concourse (2,4,5)",Late Night,55,211618,25851.0,25.9902276743944,Include
+603,"149 St-Grand Concourse (2,4,5)",Morning,84,842436,25851.0,9.97108385681524,Include
+604,"161 St-Yankee Stadium (4,B,D)",Afternoon,114,1917485,45661.0,5.94528770759615,Include
+604,"161 St-Yankee Stadium (4,B,D)",Evening,101,1572173,45661.0,6.42422939460225,Include
+604,"161 St-Yankee Stadium (4,B,D)",Late Night,103,890895,45661.0,11.5614073487897,Include
+604,"161 St-Yankee Stadium (4,B,D)",Morning,85,1941263,45661.0,4.37859269970117,Include
+605,"168 St-Washington Hts (1,A,C)",Afternoon,44,2025243,37839.0,2.17257879671723,Include
+605,"168 St-Washington Hts (1,A,C)",Evening,30,1496484,37839.0,2.00469901448996,Include
+605,"168 St-Washington Hts (1,A,C)",Late Night,25,314181,37839.0,7.9571966477922,Include
+605,"168 St-Washington Hts (1,A,C)",Morning,46,1610274,37839.0,2.85665669320873,Include
+606,"Court Sq-23 St (7,E,F,G)",Afternoon,11,2130560,232109.0,0.516296185040553,Include
+606,"Court Sq-23 St (7,E,F,G)",Evening,10,1918554,232109.0,0.521225881575395,Include
+606,"Court Sq-23 St (7,E,F,G)",Late Night,42,372000,232109.0,11.2903225806452,Include
+606,"Court Sq-23 St (7,E,F,G)",Morning,16,2022013,232109.0,0.791290659357779,Include
+607,"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",Afternoon,88,8035810,108304.0,1.09509806727635,Include
+607,"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",Evening,69,10524871,108304.0,0.655589983003117,Include
+607,"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",Late Night,123,2602017,108304.0,4.72710209041678,Include
+607,"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",Morning,34,5322401,108304.0,0.638809439574358,Include
+608,"4 Av-9 St (F,G,R)",Afternoon,15,988135,130357.0,1.51801120292268,Include
+608,"4 Av-9 St (F,G,R)",Evening,14,895632,130357.0,1.56314200475195,Include
+608,"4 Av-9 St (F,G,R)",Late Night,22,191132,130357.0,11.5103697967897,Include
+608,"4 Av-9 St (F,G,R)",Morning,28,1087541,130357.0,2.57461557771155,Include
+609,"42 St-Bryant Pk/5 Av (7,B,D,F,M)",Afternoon,54,4317799,231546.0,1.25063718806735,Include
+609,"42 St-Bryant Pk/5 Av (7,B,D,F,M)",Evening,53,6279382,231546.0,0.844032103796202,Include
+609,"42 St-Bryant Pk/5 Av (7,B,D,F,M)",Late Night,75,1104452,231546.0,6.79069801132145,Include
+609,"42 St-Bryant Pk/5 Av (7,B,D,F,M)",Morning,32,1409244,231546.0,2.27072103908195,Include
+610,"Grand Central-42 St (4,5,6,7,S)",Afternoon,90,10776130,166638.0,0.835179234103523,Include
+610,"Grand Central-42 St (4,5,6,7,S)",Evening,85,13088659,166638.0,0.649417178642976,Include
+610,"Grand Central-42 St (4,5,6,7,S)",Late Night,40,2123641,166638.0,1.88355753161669,Include
+610,"Grand Central-42 St (4,5,6,7,S)",Morning,75,10374936,166638.0,0.722896025575483,Include
+611,"Times Sq-42 St/Port Authority Bus Terminal (1,2,3,7,A,C,E,N,Q,R,W,S)",Afternoon,588,12248051,93750.0,4.80076381131986,Include
+611,"Times Sq-42 St/Port Authority Bus Terminal (1,2,3,7,A,C,E,N,Q,R,W,S)",Evening,332,15472364,93750.0,2.14576130706335,Include
+611,"Times Sq-42 St/Port Authority Bus Terminal (1,2,3,7,A,C,E,N,Q,R,W,S)",Late Night,327,6170241,93750.0,5.29963092203368,Include
+611,"Times Sq-42 St/Port Authority Bus Terminal (1,2,3,7,A,C,E,N,Q,R,W,S)",Morning,196,14618634,93750.0,1.34075454656023,Include
+612,"Lexington Av/51-53 Sts (6,E,F)",Afternoon,13,4595450,99875.0,0.282888509286359,Include
+612,"Lexington Av/51-53 Sts (6,E,F)",Evening,21,5669707,99875.0,0.370389510427964,Include
+612,"Lexington Av/51-53 Sts (6,E,F)",Late Night,18,838884,99875.0,2.14570786902599,Include
+612,"Lexington Av/51-53 Sts (6,E,F)",Morning,20,2283099,99875.0,0.876002310894096,Include
+613,"Lexington Av/59 St (4,5,6,N,R,W)",Afternoon,33,4427795,206818.0,0.745291956831787,Include
+613,"Lexington Av/59 St (4,5,6,N,R,W)",Evening,35,4831016,206818.0,0.724485284254906,Include
+613,"Lexington Av/59 St (4,5,6,N,R,W)",Late Night,18,831079,206818.0,2.1658590819886,Include
+613,"Lexington Av/59 St (4,5,6,N,R,W)",Morning,26,2028654,206818.0,1.28163797276421,Include
+614,"59 St-Columbus Circle (1,A,C,B,D)",Afternoon,142,6264560,186389.0,2.26671945036842,Include
+614,"59 St-Columbus Circle (1,A,C,B,D)",Evening,205,6515012,186389.0,3.14657900860351,Include
+614,"59 St-Columbus Circle (1,A,C,B,D)",Late Night,258,1542388,186389.0,16.7273085630853,Include
+614,"59 St-Columbus Circle (1,A,C,B,D)",Morning,97,3114967,186389.0,3.11399767637988,Include
+615,"62 St/New Utrecht Av (D,N)",Afternoon,5,363093,51250.0,1.37705766842104,Include
+615,"62 St/New Utrecht Av (D,N)",Evening,5,209637,51250.0,2.38507515371809,Include
+615,"62 St/New Utrecht Av (D,N)",Late Night,12,78500,51250.0,15.2866242038217,Low Ridership
+615,"62 St/New Utrecht Av (D,N)",Morning,4,566304,51250.0,0.706334406961632,Include
+616,"Jackson Hts-Roosevelt Av/74 St-Broadway (7,E,F,M,R)",Afternoon,67,4223496,58274.0,1.58636352443568,Include
+616,"Jackson Hts-Roosevelt Av/74 St-Broadway (7,E,F,M,R)",Evening,149,2981166,58274.0,4.99804438934296,Include
+616,"Jackson Hts-Roosevelt Av/74 St-Broadway (7,E,F,M,R)",Late Night,453,1363628,58274.0,33.220203750583,Include
+616,"Jackson Hts-Roosevelt Av/74 St-Broadway (7,E,F,M,R)",Morning,33,6334080,58274.0,0.520991209457411,Include
+617,"Atlantic Av-Barclays Ctr (2,3,4,5,B,D,N,Q,R)",Afternoon,257,3527979,250000.0,7.28462385972252,Include
+617,"Atlantic Av-Barclays Ctr (2,3,4,5,B,D,N,Q,R)",Evening,158,3399770,250000.0,4.64737320465796,Include
+617,"Atlantic Av-Barclays Ctr (2,3,4,5,B,D,N,Q,R)",Late Night,164,1150964,250000.0,14.248925248748,Include
+617,"Atlantic Av-Barclays Ctr (2,3,4,5,B,D,N,Q,R)",Morning,108,3096882,250000.0,3.48737859563264,Include
+618,"14 St/8 Av (A,C,E,L)",Afternoon,31,4334378,75000.0,0.715212194229483,Include
+618,"14 St/8 Av (A,C,E,L)",Evening,42,4826673,75000.0,0.870164604065782,Include
+618,"14 St/8 Av (A,C,E,L)",Late Night,101,1363657,75000.0,7.40655458080734,Include
+618,"14 St/8 Av (A,C,E,L)",Morning,17,1638229,75000.0,1.03770596174283,Include
+619,"Broadway-Lafayette St/Bleecker St (6,B,D,F,M)",Afternoon,57,3731531,179844.0,1.5275231533652,Include
+619,"Broadway-Lafayette St/Bleecker St (6,B,D,F,M)",Evening,16,4524562,179844.0,0.353625389595722,Include
+619,"Broadway-Lafayette St/Bleecker St (6,B,D,F,M)",Late Night,27,997466,179844.0,2.70685918116507,Include
+619,"Broadway-Lafayette St/Bleecker St (6,B,D,F,M)",Morning,37,1557951,179844.0,2.37491423029351,Include
+620,"Borough Hall/Court St (2,3,4,5,R)",Afternoon,25,2504110,203958.0,0.998358698299995,Include
+620,"Borough Hall/Court St (2,3,4,5,R)",Evening,14,1893359,203958.0,0.73942659580143,Include
+620,"Borough Hall/Court St (2,3,4,5,R)",Late Night,23,265377,203958.0,8.66691536945553,Include
+620,"Borough Hall/Court St (2,3,4,5,R)",Morning,20,1883148,203958.0,1.06205141603315,Include
+621,"Broadway Junction (A,C,J,Z,L)",Afternoon,198,578134,70426.0,34.2481154887967,Include
+621,"Broadway Junction (A,C,J,Z,L)",Evening,209,384293,70426.0,54.3855859981837,Include
+621,"Broadway Junction (A,C,J,Z,L)",Late Night,253,211824,70426.0,119.438779364,Include
+621,"Broadway Junction (A,C,J,Z,L)",Morning,71,830588,70426.0,8.548161061802,Include
+622,"Brooklyn Bridge-City Hall/Chambers St (4,5,6,J,Z)",Afternoon,38,2596956,11094.0,1.46325159147864,Include
+622,"Brooklyn Bridge-City Hall/Chambers St (4,5,6,J,Z)",Evening,28,2140017,11094.0,1.30840082111497,Include
+622,"Brooklyn Bridge-City Hall/Chambers St (4,5,6,J,Z)",Late Night,61,318346,11094.0,19.161541216161,Include
+622,"Brooklyn Bridge-City Hall/Chambers St (4,5,6,J,Z)",Morning,28,1251941,11094.0,2.236527120687,Include
+623,"Canal St (6,J,Z,N,Q,R,W)",Afternoon,46,4645514,170714.0,0.99020259114492,Include
+623,"Canal St (6,J,Z,N,Q,R,W)",Evening,26,5206948,170714.0,0.499332814539342,Include
+623,"Canal St (6,J,Z,N,Q,R,W)",Late Night,40,807767,170714.0,4.95192301740477,Include
+623,"Canal St (6,J,Z,N,Q,R,W)",Morning,22,1498884,170714.0,1.46775867912393,Include
+624,"Chambers St/WTC/Park Place/Cortlandt St (2,3,A,C,E,R,W)",Afternoon,27,5157249,250000.0,0.523534931123163,Include
+624,"Chambers St/WTC/Park Place/Cortlandt St (2,3,A,C,E,R,W)",Evening,17,5485992,250000.0,0.30988014565096,Include
+624,"Chambers St/WTC/Park Place/Cortlandt St (2,3,A,C,E,R,W)",Late Night,51,692937,250000.0,7.35997644807537,Include
+624,"Chambers St/WTC/Park Place/Cortlandt St (2,3,A,C,E,R,W)",Morning,33,2793249,250000.0,1.18141991637695,Include
+625,"Delancey St-Essex St (F,M,J,Z)",Afternoon,91,2413987,76726.0,3.76969718561036,Include
+625,"Delancey St-Essex St (F,M,J,Z)",Evening,28,2522027,76726.0,1.11021809044867,Include
+625,"Delancey St-Essex St (F,M,J,Z)",Late Night,36,1054667,76726.0,3.41339967970933,Include
+625,"Delancey St-Essex St (F,M,J,Z)",Morning,34,1852310,76726.0,1.83554588594782,Include
+626,"Franklin Av-Medgar Evers College/Botanic Garden (2,3,4,5,S)",Afternoon,181,1138864,82426.0,15.8930302476854,Include
+626,"Franklin Av-Medgar Evers College/Botanic Garden (2,3,4,5,S)",Evening,140,787825,82426.0,17.7704439437692,Include
+626,"Franklin Av-Medgar Evers College/Botanic Garden (2,3,4,5,S)",Late Night,124,238778,82426.0,51.9310824280294,Include
+626,"Franklin Av-Medgar Evers College/Botanic Garden (2,3,4,5,S)",Morning,293,1577086,82426.0,18.5785683215754,Include
+627,"Franklin Av (C,S)",Afternoon,37,428231,119148.0,8.64019652944322,Include
+627,"Franklin Av (C,S)",Evening,43,358011,119148.0,12.010804137303,Include
+627,"Franklin Av (C,S)",Late Night,41,92450,119148.0,44.3482963764197,Low Ridership
+627,"Franklin Av (C,S)",Morning,37,484792,119148.0,7.6321391442103,Include
+628,"Fulton St (2,3,4,5,A,C,J,Z)",Afternoon,129,6811164,204310.0,1.8939494042428,Include
+628,"Fulton St (2,3,4,5,A,C,J,Z)",Evening,76,7718270,204310.0,0.984676617946768,Include
+628,"Fulton St (2,3,4,5,A,C,J,Z)",Late Night,76,1321846,204310.0,5.74953511982485,Include
+628,"Fulton St (2,3,4,5,A,C,J,Z)",Morning,96,4796662,204310.0,2.0013918012151,Include
+629,"Metropolitan Av/Lorimer St (G,L)",Afternoon,13,1225922,136207.0,1.06042635665238,Include
+629,"Metropolitan Av/Lorimer St (G,L)",Evening,20,1375177,136207.0,1.45435823897578,Include
+629,"Metropolitan Av/Lorimer St (G,L)",Late Night,41,628683,136207.0,6.52156969410657,Include
+629,"Metropolitan Av/Lorimer St (G,L)",Morning,6,1514154,136207.0,0.396260882314481,Include
+630,"Myrtle-Wyckoff Avs (M,L)",Afternoon,75,1565934,114318.0,4.78947388587258,Include
+630,"Myrtle-Wyckoff Avs (M,L)",Evening,119,1066699,114318.0,11.1559118364225,Include
+630,"Myrtle-Wyckoff Avs (M,L)",Late Night,136,464140,114318.0,29.301503856595,Include
+630,"Myrtle-Wyckoff Avs (M,L)",Morning,18,2572879,114318.0,0.699605383696629,Include
+635,"Whitehall St-South Ferry (1,R,W)",Afternoon,16,2703629,250000.0,0.591797173354776,Include
+635,"Whitehall St-South Ferry (1,R,W)",Evening,15,2109710,250000.0,0.710998194064587,Include
+635,"Whitehall St-South Ferry (1,R,W)",Late Night,20,391049,250000.0,5.11444857294099,Include
+635,"Whitehall St-South Ferry (1,R,W)",Morning,8,1782861,250000.0,0.448716977936025,Include
+636,"Jay St-MetroTech (A,C,F,R)",Afternoon,67,3393457,203958.0,1.97438777034747,Include
+636,"Jay St-MetroTech (A,C,F,R)",Evening,57,2804976,203958.0,2.03210294847443,Include
+636,"Jay St-MetroTech (A,C,F,R)",Late Night,107,458013,203958.0,23.3617823074891,Include
+636,"Jay St-MetroTech (A,C,F,R)",Morning,78,1900124,203958.0,4.10499525294139,Include

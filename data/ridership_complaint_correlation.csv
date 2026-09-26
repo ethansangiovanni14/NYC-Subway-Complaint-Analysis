@@ -1,0 +1,425 @@
+station_complex,total_ridership,total_complaints
+"Astoria-Ditmars Blvd (N,W)",3607188,34
+"Astoria Blvd (N,W)",2633116,31
+"30 Av (N,W)",3377781,19
+"Broadway (N,W)",3022927,6
+"36 Av (N,W)",1629988,8
+"39 Av-Dutch Kills (N,W)",972133,6
+"5 Av/59 St (N,R,W)",3858005,14
+"57 St-7 Av (N,Q,R,W)",8766661,38
+"49 St (N,R,W)",7379658,124
+"28 St (R,W)",3260307,9
+"23 St (R,W)",4826147,11
+"8 St-NYU (R,W)",4312874,10
+"Prince St (R,W)",3620580,13
+"City Hall (R,W)",1188321,25
+"Rector St (R,W)",1263562,10
+"DeKalb Av (B,Q,R)",5488736,79
+Union St (R),2005206,23
+Prospect Av (R),1431946,6
+25 St (R),909874,24
+"36 St (D,N,R)",3975706,263
+45 St (R),2010463,23
+53 St (R),2197126,64
+"59 St (N,R)",3298257,160
+Bay Ridge Av (R),1871345,12
+77 St (R),1300844,13
+86 St (R),2793068,25
+Bay Ridge-95 St (R),1285248,47
+"7 Av (B,Q)",2325650,26
+"Prospect Park (B,Q,S)",2527533,43
+Parkside Av (Q),1669088,15
+"Church Av (B,Q)",2911284,15
+Beverley Rd (Q),970160,9
+Cortelyou Rd (Q),1474466,6
+"Newkirk Plaza (B,Q)",2265313,0
+Avenue H (Q),747986,8
+Avenue J (Q),1259124,16
+Avenue M (Q),1329442,8
+"Kings Hwy (B,Q)",4502119,86
+Avenue U (Q),1588316,36
+Neck Rd (Q),1024132,5
+"Sheepshead Bay (B,Q)",2823294,23
+"Brighton Beach (B,Q)",2538650,40
+Ocean Pkwy (Q),702655,10
+"W 8 St-NY Aquarium (F,Q)",691376,18
+"Coney Island-Stillwell Av (D,F,N,Q)",3744777,1437
+9 Av (D),1402773,15
+Fort Hamilton Pkwy (D),1016213,14
+50 St (D),779265,2
+55 St (D),424856,1
+71 St (D),1164001,12
+79 St (D),1500875,16
+18 Av (D),1441753,11
+20 Av (D),1200471,12
+Bay Pkwy (D),1740562,19
+25 Av (D),965374,11
+Bay 50 St (D),658251,25
+8 Av (N),2950438,17
+Fort Hamilton Pkwy (N),1639303,7
+18 Av (N),1252455,6
+20 Av (N),1047252,7
+Bay Pkwy (N),1642069,0
+Kings Hwy (N),1383348,0
+Avenue U (N),945655,0
+86 St (N),579922,22
+"121 St (J,Z)",539380,5
+111 St (J),533027,22
+"104 St (J,Z)",608281,0
+"Woodhaven Blvd (J,Z)",1117845,11
+85 St-Forest Pkwy (J),575523,5
+"75 St-Elderts Ln (J,Z)",857266,7
+Cypress Hills (J),170992,3
+"Crescent St (J,Z)",973572,28
+"Norwood Av (J,Z)",581845,8
+Cleveland St (J),514356,20
+"Van Siclen Av (J,Z)",685515,16
+"Alabama Av (J,Z)",462735,68
+"Chauncey St (J,Z)",692633,9
+Halsey St (J),1462439,11
+"Gates Av (J,Z)",1632692,10
+Kosciuszko St (J),1423813,59
+"Myrtle Av (M,J,Z)",2928810,182
+"Flushing Av (M,J)",2018036,44
+"Lorimer St (M,J)",1049344,15
+"Hewes St (M,J)",681772,9
+"Marcy Av (M,J,Z)",3007890,57
+"Bowery (J,Z)",1014358,11
+"Broad St (J,Z)",1436779,21
+Middle Village-Metropolitan Av (M),910882,0
+Fresh Pond Rd (M),1355171,5
+Forest Av (M),1046664,2
+Seneca Av (M),677235,3
+Knickerbocker Av (M),1005247,7
+Central Av (M),919034,4
+3 Av (L),1894815,12
+1 Av (L),7328789,48
+Bedford Av (L),9837458,121
+Graham Av (L),2475588,54
+Grand St (L),1704787,24
+Montrose Av (L),1832401,21
+Morgan Av (L),2084852,178
+Jefferson St (L),2613571,100
+DeKalb Av (L),3262348,138
+Halsey St (L),2127993,24
+Wilson Av (L),1161525,58
+Bushwick Av-Aberdeen St (L),609216,20
+Atlantic Av (L),598373,87
+Sutter Av (L),644156,47
+Livonia Av (L),661698,71
+New Lots Av (L),794595,88
+East 105 St (L),599598,22
+Canarsie-Rockaway Pkwy (L),2265472,129
+Park Pl (S),422385,13
+Inwood-207 St (A),1934421,18
+Dyckman St (A),1482382,21
+190 St (A),967851,10
+181 St (A),2201097,17
+175 St (A),2342853,38
+163 St-Amsterdam Av (C),938155,14
+155 St (C),580247,6
+"145 St (A,C,B,D)",5267225,160
+"135 St (C,B)",1230161,22
+"125 St (A,C,B,D)",6317510,214
+"116 St (C,B)",1540594,14
+"Cathedral Pkwy (110 St) (C,B)",1872788,0
+"103 St (C,B)",1117128,18
+"96 St (C,B)",2285460,7
+"86 St (C,B)",2703401,10
+"81 St-Museum of Natural History (C,B)",3483547,5
+"72 St (C,B)",2662049,6
+"50 St (C,E)",5873155,61
+"34 St-Penn Station (A,C,E)",20313028,260
+"23 St (C,E)",5126601,43
+"W 4 St-Wash Sq (A,C,E,B,D,F,M)",12050810,587
+"Spring St (C,E)",3773130,18
+"Canal St (A,C,E)",4371441,180
+"High St (A,C)",2815371,35
+"Hoyt-Schermerhorn Sts (A,C,G)",3087909,184
+Lafayette Av (C),1391268,16
+Clinton-Washington Avs (C),1893472,51
+"Nostrand Av (A,C)",4317573,263
+Kingston-Throop Avs (C),1645497,78
+"Utica Av (A,C)",3565266,503
+Ralph Av (C),1243346,337
+Rockaway Av (C),1271657,125
+Liberty Av (C),556884,61
+Van Siclen Av (C),678694,73
+Shepherd Av (C),591056,6
+"Euclid Av (A,C)",2214605,150
+Grant Av (A),1176772,146
+80 St (A),972310,14
+88 St (A),627351,7
+Rockaway Blvd (A),1652376,62
+104 St (A),391136,3
+111 St (A),468822,7
+Ozone Park-Lefferts Blvd (A),1422675,38
+Aqueduct Racetrack (A),172988,2
+Aqueduct-N Conduit Av (A),184716,6
+Howard Beach-JFK Airport (A),1574643,123
+"Broad Channel (A,S)",43016,18
+"Beach 90 St (A,S)",144763,2
+"Beach 98 St (A,S)",78844,2
+"Beach 105 St (A,S)",57196,1
+"Rockaway Park-Beach 116 St (A,S)",134106,11
+Beach 67 St (A),346900,11
+Beach 60 St (A),234935,14
+Beach 44 St (A),99040,4
+Beach 36 St (A),106063,2
+Beach 25 St (A),200213,10
+Far Rockaway-Mott Av (A),771825,104
+Norwood-205 St (D),1399874,33
+"Bedford Park Blvd (B,D)",1399237,47
+"Kingsbridge Rd (B,D)",1352678,212
+"Fordham Rd (B,D)",1917244,234
+"182-183 Sts (B,D)",975223,49
+"Tremont Av (B,D)",1772652,288
+"174-175 Sts (B,D)",946565,39
+"170 St (B,D)",1188955,109
+"167 St (B,D)",1725114,48
+"155 St (B,D)",606997,34
+21 St-Queensbridge (M),2842053,234
+Roosevelt Island (M),2278254,0
+"Lexington Av/63 St (M,Q)",4604291,38
+57 St (M),3815872,32
+"47-50 Sts-Rockefeller Ctr (B,D,F,M)",13573514,122
+"23 St (F,M)",6345819,23
+"Grand St (B,D)",6022434,29
+2 Av (F),4576643,243
+East Broadway (F),3851059,64
+York St (F),3870886,31
+"Bergen St (F,G)",2970093,60
+"Carroll St (F,G)",3019971,30
+"Smith-9 Sts (F,G)",1065470,91
+"7 Av (F,G)",3002728,29
+"15 St-Prospect Park (F,G)",1477415,23
+"Fort Hamilton Pkwy (F,G)",1434157,2
+"Church Av (F,G)",2242850,42
+Ditmas Av (F),860887,19
+18 Av (F),799207,7
+Avenue I (F),347248,7
+Bay Pkwy (F),243990,3
+Avenue N (F),602009,3
+Avenue P (F),568926,11
+Kings Hwy (F),719316,0
+Avenue U (F),436349,0
+Avenue X (F),566015,17
+Neptune Av (F),340093,8
+Jamaica-179 St (F),4130610,55
+169 St (F),1796424,45
+Parsons Blvd (F),1629126,21
+Sutphin Blvd (F),1012821,57
+"Briarwood (E,F)",1183052,145
+"Kew Gardens-Union Tpke (E,F)",5249663,118
+"75 Av (E,F)",784978,29
+"Forest Hills-71 Av (E,F,M,R)",6374460,202
+"67 Av (M,R)",1844578,11
+"63 Dr-Rego Park (M,R)",3260241,10
+"Woodhaven Blvd (M,R)",4523715,82
+"Grand Av-Newtown (M,R)",4530426,35
+"Elmhurst Av (M,R)",3255678,53
+"65 St (M,R)",880716,12
+"Northern Blvd (M,R)",1619175,16
+"46 St (M,R)",1913238,8
+"Steinway St (M,R)",2989217,19
+"36 St (M,R)",872672,9
+"Queens Plaza (E,F,R)",4201307,77
+"5 Av/53 St (E,F)",4184660,18
+"7 Av (E,B,D)",4533641,52
+"Jamaica Center-Parsons/Archer (E,J,Z)",6887607,368
+"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)",7308990,158
+Jamaica-Van Wyck (E),1147962,12
+21 St (G),501042,9
+Greenpoint Av (G),2797244,7
+Nassau Av (G),2646948,10
+Broadway (G),1190632,7
+Flushing Av (G),755338,7
+Myrtle-Willoughby Avs (G),1268190,28
+Bedford-Nostrand Avs (G),2242962,55
+Classon Av (G),1341728,12
+Clinton-Washington Avs (G),1430497,0
+Fulton St (G),1616388,17
+Van Cortlandt Park-242 St (1),1366529,17
+238 St (1),1044910,5
+231 St (1),1987401,6
+Marble Hill-225 St (1),1086855,3
+215 St (1),537628,4
+207 St (1),1386775,9
+Dyckman St (1),1673529,21
+191 St (1),1747979,78
+181 St (1),2488599,36
+157 St (1),2418832,19
+145 St (1),2189462,126
+137 St-City College (1),2784481,46
+125 St (1),2115278,32
+116 St-Columbia University (1),3442218,11
+Cathedral Pkwy (110 St) (1),3081466,36
+103 St (1),3004312,32
+"96 St (1,2,3)",8782911,148
+86 St (1),4399806,35
+79 St (1),3857948,14
+"72 St (1,2,3)",10120680,170
+66 St-Lincoln Center (1),5101904,26
+50 St (1),6493184,48
+"34 St-Penn Station (1,2,3)",18178673,256
+28 St (1),3299055,25
+23 St (1),3421316,11
+18 St (1),1853563,8
+Christopher St-Stonewall (1),3310269,52
+Houston St (1),3589464,12
+Canal St (1),1323617,4
+Franklin St (1),1496414,9
+"Chambers St (1,2,3)",4279510,34
+WTC Cortlandt (1),4397574,11
+Rector St (1),1864332,3
+"Wall St (2,3)",4508756,9
+"Clark St (2,3)",1724093,19
+"Hoyt St (2,3)",1432683,99
+"Nevins St (2,3,4,5)",2265574,102
+"Bergen St (2,3)",1123901,9
+"Grand Army Plaza (2,3)",1764569,58
+"Eastern Pkwy-Brooklyn Museum (2,3)",1210140,24
+Nostrand Av (3),823887,52
+Kingston Av (3),1018374,24
+"Crown Hts-Utica Av (3,4)",5423073,397
+Sutter Av-Rutland Rd (3),1394352,84
+Saratoga Av (3),1083193,24
+Rockaway Av (3),1005286,28
+Junius St (3),567312,116
+Pennsylvania Av (3),809989,40
+Van Siclen Av (3),511587,11
+New Lots Av (3),1164227,143
+"President St-Medgar Evers College (2,5)",814552,33
+"Sterling St (2,5)",1315415,15
+"Winthrop St (2,5)",1812965,39
+"Church Av (2,5)",2202455,108
+"Beverly Rd (2,5)",1074387,33
+"Newkirk Av-Little Haiti (2,5)",1642976,75
+"Flatbush Av-Brooklyn College (2,5)",4168249,223
+Pelham Bay Park (6),1300580,31
+Buhre Av (6),790634,3
+Middletown Rd (6),428769,6
+Westchester Sq-E Tremont Av (6),993167,20
+Zerega Av (6),511522,14
+Castle Hill Av (6),1301355,23
+Parkchester (6),2833154,49
+St Lawrence Av (6),933820,24
+Morrison Av-Soundview (6),1337443,81
+Elder Av (6),1396879,106
+Whitlock Av (6),392466,20
+Hunts Point Av (6),2244991,527
+Longwood Av (6),670681,14
+E 149 St (6),1022986,130
+E 143 St-St Mary's St (6),418381,0
+Cypress Av (6),610827,28
+Brook Av (6),1099048,114
+3 Av-138 St (6),1838586,118
+Woodlawn (4),1426328,59
+Mosholu Pkwy (4),1494071,24
+Bedford Park Blvd-Lehman College (4),1117454,14
+Kingsbridge Rd (4),1888209,66
+Fordham Rd (4),2081755,65
+183 St (4),1186429,76
+Burnside Av (4),1972238,158
+176 St (4),1217045,48
+Mt Eden Av (4),1008384,29
+170 St (4),1619300,129
+167 St (4),1960444,46
+"138 St-Grand Concourse (4,5)",949116,77
+"125 St (4,5,6)",5912433,313
+116 St (6),3140396,93
+110 St (6),2435904,29
+103 St (6),2915446,34
+96 St (6),4019153,16
+"86 St (4,5,6)",11243383,111
+77 St (6),6602128,18
+68 St-Hunter College (6),5390300,31
+33 St (6),6441492,60
+28 St (6),4784204,131
+23 St-Baruch College (6),6071164,28
+Astor Pl (6),4099411,12
+Spring St (6),3332127,5
+"Wall St (4,5)",3834131,7
+"Bowling Green (4,5)",5257924,31
+Wakefield-241 St (2),925080,27
+"Nereid Av (2,5)",579641,17
+"233 St (2,5)",799487,19
+"225 St (2,5)",640080,4
+"219 St (2,5)",557826,20
+"Gun Hill Rd (2,5)",1299292,203
+"Burke Av (2,5)",538194,11
+"Allerton Av (2,5)",891344,23
+"Pelham Pkwy (2,5)",1579559,25
+"Bronx Park East (2,5)",500988,45
+"E 180 St (2,5)",1898185,298
+"West Farms Sq-E Tremont Av (2,5)",1230087,43
+"174 St (2,5)",1340333,178
+"Freeman St (2,5)",940247,12
+"Simpson St (2,5)",1693452,171
+"Intervale Av (2,5)",676086,26
+"Prospect Av (2,5)",1326847,84
+"Jackson Av (2,5)",1107242,56
+"3 Av-149 St (2,5)",4325663,1035
+Harlem-148 St (3),707158,20
+145 St (3),690290,24
+"135 St (2,3)",2693113,180
+"125 St (2,3)",3368175,132
+"116 St (2,3)",2284229,70
+"110 St-Malcolm X Plaza (2,3)",1780784,115
+Eastchester-Dyre Av (5),819385,18
+Baychester Av (5),556618,26
+Gun Hill Rd (5),862445,26
+Pelham Pkwy (5),617163,4
+Morris Park (5),558511,4
+Flushing-Main St (7),15013551,246
+Mets-Willets Point (7),2510841,34
+111 St (7),3446653,21
+103 St-Corona Plaza (7),5569246,61
+Junction Blvd (7),6731267,60
+90 St-Elmhurst Av (7),4727429,25
+82 St-Jackson Hts (7),3668197,36
+69 St (7),1152977,12
+61 St-Woodside (7),4171140,18
+52 St (7),1253939,7
+46 St-Bliss St (7),3459850,22
+40 St-Lowery St (7),2474487,14
+33 St-Rawson St (7),2239434,25
+"Queensboro Plaza (7,N,W)",3562776,106
+Hunters Point Av (7),1076371,18
+Vernon Blvd-Jackson Av (7),4308253,23
+34 St-Hudson Yards (7),6752824,91
+96 St (Q),4511586,61
+86 St (Q),6417933,13
+72 St (Q),7613829,12
+"14 St/6 Av (1,2,3,L,F,M)",11513643,245
+"14 St-Union Sq (4,5,6,L,N,Q,R,W)",24527632,554
+"149 St-Grand Concourse (2,4,5)",2598419,260
+"161 St-Yankee Stadium (4,B,D)",6321816,403
+"168 St-Washington Hts (1,A,C)",5446182,145
+"Court Sq-23 St (7,E,F,G)",6443127,79
+"34 St-Herald Sq (B,D,F,M,N,Q,R,W)",26485099,314
+"4 Av-9 St (F,G,R)",3162440,79
+"42 St-Bryant Pk/5 Av (7,B,D,F,M)",13110877,214
+"Grand Central-42 St (4,5,6,7,S)",36363366,290
+"Times Sq-42 St/Port Authority Bus Terminal (1,2,3,7,A,C,E,N,Q,R,W,S)",48509290,1443
+"Lexington Av/51-53 Sts (6,E,F)",13387140,72
+"Lexington Av/59 St (4,5,6,N,R,W)",12118544,112
+"59 St-Columbus Circle (1,A,C,B,D)",17436927,702
+"62 St/New Utrecht Av (D,N)",1217534,26
+"Jackson Hts-Roosevelt Av/74 St-Broadway (7,E,F,M,R)",14902370,702
+"Atlantic Av-Barclays Ctr (2,3,4,5,B,D,N,Q,R)",11175595,687
+"14 St/8 Av (A,C,E,L)",12162937,191
+"Broadway-Lafayette St/Bleecker St (6,B,D,F,M)",10811510,137
+"Borough Hall/Court St (2,3,4,5,R)",6545994,82
+"Broadway Junction (A,C,J,Z,L)",2004839,731
+"Brooklyn Bridge-City Hall/Chambers St (4,5,6,J,Z)",6307260,155
+"Canal St (6,J,Z,N,Q,R,W)",12159113,134
+"Chambers St/WTC/Park Place/Cortlandt St (2,3,A,C,E,R,W)",14129427,128
+"Delancey St-Essex St (F,M,J,Z)",7842991,189
+"Franklin Av-Medgar Evers College/Botanic Garden (2,3,4,5,S)",3742553,738
+"Franklin Av (C,S)",1363484,158
+"Fulton St (2,3,4,5,A,C,J,Z)",20647942,377
+"Metropolitan Av/Lorimer St (G,L)",4743936,80
+"Myrtle-Wyckoff Avs (M,L)",5669652,348
+"Whitehall St-South Ferry (1,R,W)",6987249,59
+"Jay St-MetroTech (A,C,F,R)",8556570,309

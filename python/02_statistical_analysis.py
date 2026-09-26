@@ -1,6 +1,13 @@
-import pandas as pd
+from pathlib import Path
+
 import numpy as np
+import pandas as pd
 from scipy.stats import linregress
+
+
+# Locate the repository's data folder.
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "data"
 
 
 # ------------------------------------------------------------
@@ -8,7 +15,7 @@ from scipy.stats import linregress
 # ------------------------------------------------------------
 
 volume_data = pd.read_csv(
-    "ridership_complaint_correlation.csv"
+    DATA_DIR / "ridership_complaint_correlation.csv"
 )
 
 volume_pearson = volume_data["total_ridership"].corr(
@@ -31,7 +38,7 @@ print("Spearman correlation:", volume_spearman)
 # ------------------------------------------------------------
 
 rate_data = pd.read_csv(
-    "ridership_complaint_rate_analysis.csv"
+    DATA_DIR / "ridership_complaint_rate_analysis.csv"
 )
 
 rate_pearson = rate_data["total_ridership"].corr(
@@ -54,7 +61,7 @@ print("Spearman correlation:", rate_spearman)
 # ------------------------------------------------------------
 
 income_data = pd.read_csv(
-    "income_complaint_rate_analysis.csv"
+    DATA_DIR / "income_complaint_rate_analysis.csv"
 )
 
 income_pearson = income_data["median_household_income"].corr(
@@ -75,55 +82,38 @@ print("Spearman correlation:", income_spearman)
 # ------------------------------------------------------------
 # Residual analysis
 # ------------------------------------------------------------
-# The residual analysis uses income_complaint_rate_analysis.csv,
-# so both ridership and income models use the same station sample:
+# Both residual models use the same station sample:
 # stations with at least 500,000 annual riders and non-missing income.
 
-
-# Log-transform ridership because station ridership is highly skewed.
 income_data["log_ridership"] = np.log10(
     income_data["total_ridership"]
 )
 
-
-# Model complaint rate as a function of log ridership.
 ridership_model = linregress(
     income_data["log_ridership"],
     income_data["complaints_per_100k_riders"]
 )
 
-
-# Calculate the complaint rate expected from the ridership model.
 income_data["expected_rate_from_ridership"] = (
     ridership_model.intercept
     + ridership_model.slope * income_data["log_ridership"]
 )
 
-
-# Calculate ridership residuals.
-# Positive residual = higher complaint rate than the model predicts.
-# Negative residual = lower complaint rate than the model predicts.
 income_data["ridership_residual"] = (
     income_data["complaints_per_100k_riders"]
     - income_data["expected_rate_from_ridership"]
 )
 
-
-# Model complaint rate as a function of median household income.
 income_model = linregress(
     income_data["median_household_income"],
     income_data["complaints_per_100k_riders"]
 )
 
-
-# Calculate the complaint rate expected from the income model.
 income_data["expected_rate_from_income"] = (
     income_model.intercept
     + income_model.slope * income_data["median_household_income"]
 )
 
-
-# Calculate income residuals.
 income_data["income_residual"] = (
     income_data["complaints_per_100k_riders"]
     - income_data["expected_rate_from_income"]
@@ -149,7 +139,6 @@ print(
     ].to_string(index=False)
 )
 
-
 print("\nHigher complaint rate than expected from neighborhood income:")
 print(
     income_data.nlargest(
@@ -164,7 +153,6 @@ print(
         ]
     ].to_string(index=False)
 )
-
 
 print("\nLower complaint rate than expected from neighborhood income:")
 print(
